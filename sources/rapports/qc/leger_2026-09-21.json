@@ -1,0 +1,55 @@
+{
+  "juridiction": "qc-provincial",
+  "firme": "Léger",
+  "date_debut": "",
+  "date_fin": "2026-09-21",
+  "document": "Rapport intentions de vote - 21 septembre 2026.pdf (Léger/Le Journal/TVA, terrain 18-21 septembre 2026)",
+  "reference": "",
+  "note": "One-off loader: Léger/Le Journal/TVA poll, field 2026-09-18 to 21, n=1,001 (903 decided). Source: data/raw/lus/ \"Rapport intentions de vote - 21 septembre 2026.pdf\" (p. 7). National decided: PQ 29, PLQ 23, CAQ 20, PCQ 17, QS 10, autres 1. Regional: MTL RMR 350 / QC RMR 281 / Reste 272 -- PCQ at 34 % in the Québec RMR, its strongest regional reading of the cycle. The National row converges to Wikipedia's version on the next vigile reload.",
+  "groupes": {
+    "National": {
+      "n": 1001,
+      "parts": {
+        "PQ": 29,
+        "LIB": 23,
+        "CAQ": 20,
+        "PCQ": 17,
+        "QS": 10,
+        "AUTRES": 1
+      }
+    },
+    "RMR-MTL": {
+      "n": 350,
+      "parts": {
+        "PQ": 25,
+        "LIB": 33,
+        "CAQ": 19,
+        "PCQ": 11,
+        "QS": 11,
+        "AUTRES": 2
+      }
+    },
+    "RMR-QC": {
+      "n": 281,
+      "parts": {
+        "PQ": 23,
+        "LIB": 15,
+        "CAQ": 18,
+        "PCQ": 34,
+        "QS": 9,
+        "AUTRES": 0
+      }
+    },
+    "RESTE-QC": {
+      "n": 272,
+      "parts": {
+        "PQ": 36,
+        "LIB": 14,
+        "CAQ": 22,
+        "PCQ": 20,
+        "QS": 8,
+        "AUTRES": 0
+      }
+    }
+  }
+}

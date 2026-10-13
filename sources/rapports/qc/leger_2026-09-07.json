@@ -1,0 +1,55 @@
+{
+  "juridiction": "qc-provincial",
+  "firme": "Léger",
+  "date_debut": "",
+  "date_fin": "2026-09-07",
+  "document": "Rapport-intentions-de-vote-7-septembre-2026-VF.pdf (Léger/Le Journal/TVA, rapport du 7 septembre 2026)",
+  "reference": "",
+  "note": "One-off loader: Léger/Le Journal/TVA poll, report dated 2026-09-07, n=1,008 (859 decided). Source: data/raw/lus/ Rapport-intentions-de-vote-7-septembre-2026-VF.pdf (projet 10016937, p. 7). National decided: PQ 29, CAQ 23, PLQ 22, PCQ 15, QS 10, autres 1 -- the CAQ recovery pauses (24 -> 23 in Léger's own series). Regional crosstab maps one-to-one onto project regions (MTL RMR / QC RMR / Reste du Québec), decided-voter bases 338 + 265 + 256 = 859.",
+  "groupes": {
+    "National": {
+      "n": 1008,
+      "parts": {
+        "PQ": 29,
+        "CAQ": 23,
+        "LIB": 22,
+        "PCQ": 15,
+        "QS": 10,
+        "AUTRES": 1
+      }
+    },
+    "RMR-MTL": {
+      "n": 338,
+      "parts": {
+        "PQ": 24,
+        "CAQ": 19,
+        "LIB": 30,
+        "PCQ": 13,
+        "QS": 13,
+        "AUTRES": 1
+      }
+    },
+    "RMR-QC": {
+      "n": 265,
+      "parts": {
+        "PQ": 27,
+        "CAQ": 25,
+        "LIB": 10,
+        "PCQ": 26,
+        "QS": 10,
+        "AUTRES": 1
+      }
+    },
+    "RESTE-QC": {
+      "n": 256,
+      "parts": {
+        "PQ": 35,
+        "CAQ": 27,
+        "LIB": 15,
+        "PCQ": 15,
+        "QS": 7,
+        "AUTRES": 1
+      }
+    }
+  }
+}

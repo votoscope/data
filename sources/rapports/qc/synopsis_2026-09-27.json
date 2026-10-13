@@ -1,0 +1,55 @@
+{
+  "juridiction": "qc-provincial",
+  "firme": "Synopsis Recherche",
+  "date_debut": "",
+  "date_fin": "2026-09-27",
+  "document": "2026-09-26-synopsis.pdf (Synopsis/La Presse, terrain 24-27 septembre 2026, p. 7)",
+  "reference": "",
+  "note": "One-off loader: Synopsis/La Presse poll, field 2026-09-24 to 27, n=1,000 (861 after redistribution). Synopsis published a REPORT this time: data/raw/lus/2026-09-26-synopsis.pdf (after-redistribution table p. 7). National: PQ 30, PLQ 22, CAQ 17, PCQ 17, QS 13; \"un autre parti 0 %\" entered at 0.5 (rounding bound of a published 0, per the censored-residual convention -- a literal 0 would trigger the ~2.8 % zero replacement). Regional: île (n=179) and RMR-hors-île (n=184) combined into MTL with their own decided bases -- real weights this time, no borrowed structure; QC RMR 188, Ailleurs 310.",
+  "groupes": {
+    "National": {
+      "n": 1000,
+      "parts": {
+        "PQ": 30,
+        "LIB": 22,
+        "CAQ": 17,
+        "PCQ": 17,
+        "QS": 13,
+        "AUTRES": 0.5
+      }
+    },
+    "RMR-MTL": {
+      "n": 363,
+      "parts": {
+        "PQ": 25.1,
+        "LIB": 29.4,
+        "CAQ": 17.6,
+        "PCQ": 11.5,
+        "QS": 15.9,
+        "AUTRES": 0.5
+      }
+    },
+    "RMR-QC": {
+      "n": 188,
+      "parts": {
+        "PQ": 30,
+        "LIB": 13,
+        "CAQ": 20,
+        "PCQ": 31,
+        "QS": 5,
+        "AUTRES": 1
+      }
+    },
+    "RESTE-QC": {
+      "n": 310,
+      "parts": {
+        "PQ": 36,
+        "LIB": 17,
+        "CAQ": 15,
+        "PCQ": 20,
+        "QS": 11,
+        "AUTRES": 1
+      }
+    }
+  }
+}

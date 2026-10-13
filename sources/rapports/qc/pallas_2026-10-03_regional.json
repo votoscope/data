@@ -1,0 +1,44 @@
+{
+  "juridiction": "qc-provincial",
+  "firme": "Pallas Data",
+  "date_debut": "",
+  "date_fin": "2026-10-03",
+  "document": "2026-10-03-pallas.pdf (Pallas Data, terrain 3 octobre 2026, p. 12)",
+  "reference": "",
+  "note": "One-off loader: REGIONAL rows only from Pallas Data's final campaign poll (IVR, field 2026-10-03, n=1,137; decided-and-leaning n=1,114, table p. 12). Source: data/raw/lus/2026-10-03-pallas.pdf. National row left to Wikipedia as usual (decided: PQ 29.0, PLQ 24.4, PCQ 20.4, CAQ 14.6, QS 10.5, autre 1.1). Unweighted decided bases: MTL 591, QC 170, Reste 353.",
+  "groupes": {
+    "RMR-MTL": {
+      "n": 591,
+      "parts": {
+        "PQ": 28.4,
+        "LIB": 30.5,
+        "CAQ": 11.6,
+        "PCQ": 15.8,
+        "QS": 12.5,
+        "AUTRES": 1.2
+      }
+    },
+    "RMR-QC": {
+      "n": 170,
+      "parts": {
+        "PQ": 23.7,
+        "LIB": 14.6,
+        "CAQ": 19.6,
+        "PCQ": 35,
+        "QS": 6.6,
+        "AUTRES": 0.4
+      }
+    },
+    "RESTE-QC": {
+      "n": 353,
+      "parts": {
+        "PQ": 32,
+        "LIB": 16,
+        "CAQ": 18.5,
+        "PCQ": 24.2,
+        "QS": 8,
+        "AUTRES": 1.3
+      }
+    }
+  }
+}

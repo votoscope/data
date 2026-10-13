@@ -16,7 +16,7 @@ export type Ligne = Record<string, string>;
 
 export function lireCsv(chemin: URL): Ligne[] {
   let texte: string;
-  try { texte = Deno.readTextFileSync(chemin); } catch { return []; }
+  try { texte = Deno.readTextFileSync(chemin).replace(/^﻿/, ""); } catch { return []; }
   const lignes: string[][] = [];
   let ligne: string[] = [], champ = "", guillemets = false;
   for (let i = 0; i < texte.length; i++) {

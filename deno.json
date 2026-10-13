@@ -1,6 +1,9 @@
 {
   "nodeModulesDir": "auto",
-  "imports": { "linkedom": "npm:linkedom@^0.18.13" },
+  "imports": {
+    "linkedom": "npm:linkedom@^0.18.13",
+    "fflate": "npm:fflate@^0.8.2"
+  },
   "tasks": {
     "vigile": "deno run --allow-read --allow-write --allow-net=fr.wikipedia.org,en.wikipedia.org vigile/vigile.ts"
   }

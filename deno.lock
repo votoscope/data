@@ -1,6 +1,7 @@
 {
   "version": "5",
   "specifiers": {
+    "npm:fflate@~0.8.2": "0.8.2",
     "npm:linkedom@~0.18.13": "0.18.13"
   },
   "npm": {
@@ -82,6 +83,9 @@
     "entities@8.1.0": {
       "integrity": "sha512-kxL7msIffSuh9aaFAMD7rxAIuTRMAHMeBtgHW2yUdWw732ZNh4MehkF2gdjvtdmikkaIP9bFDDJOPlsvm7avrA=="
     },
+    "fflate@0.8.2": {
+      "integrity": "sha512-cPJU47OaAoCbg0pBvzsgpTPhmhqI5eJjh/JIu8tPj5q+T7iLvW/JAYUqmE7KOB4R1ZyEhzBaIQpQpardBF5z8A=="
+    },
     "html-escaper@3.0.3": {
       "integrity": "sha512-RuMffC89BOWQoY0WKGpIhn5gX3iI54O6nRA0yC124NYVtzjmFWBIiFd8M0x+ZdX0P9R4lADg1mgP8C7PxGOWuQ=="
     },
@@ -116,6 +120,7 @@
   },
   "workspace": {
     "dependencies": [
+      "npm:fflate@~0.8.2",
       "npm:linkedom@~0.18.13"
     ]
   }

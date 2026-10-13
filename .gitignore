@@ -1,0 +1,8 @@
+node_modules/
+raw/
+prive/
+*.duckdb
+*.duckdb.wal
+# Consignes locales, hors dépôt
+CLAUDE.md
+AGENT.md

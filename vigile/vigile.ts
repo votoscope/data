@@ -168,6 +168,18 @@ export class VigileSondages {
     const idsGardes = new Set(sondages.map((s) => s.id));
     const vuPart = new Set<string>();
     parts = parts.filter((p) => idsGardes.has(p.id) && !vuPart.has(p.id + "|" + p.parti) && vuPart.add(p.id + "|" + p.parti));
+    // Précisions tirées des rapports pour des sondages nationaux lus sur
+    // Wikipédia (effectif des répondants décidés, début du terrain) :
+    // sources/precisions/<juridiction>.json, appliquées par firme et date.
+    for (const [jur, f] of [["qc-provincial", "qc.json"]]) {
+      let prec: { firme: string; date_fin: string; n_decides: number; date_debut: string }[] = [];
+      try { prec = JSON.parse(Deno.readTextFileSync(new URL(`sources/precisions/${f}`, RACINE))); } catch { continue; }
+      for (const p of prec) {
+        const s = sondages.find((x) => x.juridiction === jur && x.region === "National" && x.firme === p.firme && x.date_fin === p.date_fin);
+        if (!s) { console.log(`  ! précision sans sondage : ${p.firme} ${p.date_fin}`); continue; }
+        s.n_decides = String(p.n_decides ?? ""); if (p.date_debut) s.date_debut = p.date_debut;
+      }
+    }
     sondages.sort((a, b) => a.juridiction.localeCompare(b.juridiction) || a.date_fin.localeCompare(b.date_fin) || a.firme.localeCompare(b.firme) || a.region.localeCompare(b.region));
     const ordre = new Map(sondages.map((s, i) => [s.id, i]));
     parts.sort((a, b) => (ordre.get(a.id)! - ordre.get(b.id)!) || a.parti.localeCompare(b.parti));

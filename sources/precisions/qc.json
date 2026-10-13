@@ -1,0 +1,11 @@
+[
+  { "firme": "Léger", "date_fin": "2026-09-06", "n_decides": 859, "date_debut": "2026-09-05", "document": "Rapport-intentions-de-vote-7-septembre-2026-VF.pdf" },
+  { "firme": "Léger", "date_fin": "2026-09-13", "n_decides": 842, "date_debut": "2026-09-12", "document": "VMEDIA1_Rapport-intentions-de-vote-14-septembre-2026-Finale.pdf" },
+  { "firme": "Léger", "date_fin": "2026-09-21", "n_decides": 903, "date_debut": "2026-09-18", "document": "Rapport intentions de vote - 21 septembre 2026.pdf" },
+  { "firme": "Léger", "date_fin": "2026-09-27", "n_decides": 873, "date_debut": "2026-09-25", "document": "Rapport Léger, terrain 25-27 septembre 2026" },
+  { "firme": "Léger", "date_fin": "2026-10-03", "n_decides": 892, "date_debut": "2026-09-30", "document": "Rapport intentions de vote - 3 octobre 2026.pdf" },
+  { "firme": "Synopsis Recherche", "date_fin": "2026-09-27", "n_decides": 861, "date_debut": "2026-09-24", "document": "Rapport Synopsis Recherche, terrain 24-27 septembre 2026" },
+  { "firme": "Pallas Data", "date_fin": "2026-09-12", "n_decides": 1055, "date_debut": "", "document": "PallasData-Quebec-ElectionSemaine3-13septembre2026.pdf" },
+  { "firme": "Pallas Data", "date_fin": "2026-10-03", "n_decides": 1114, "date_debut": "", "document": "Rapport Pallas Data, terrain 3 octobre 2026" },
+  { "firme": "Segma Recherche", "date_fin": "2026-09-17", "n_decides": 4594, "date_debut": "2026-09-08", "document": "segma_rapport_2026-09-17.pdf" }
+]

@@ -97,7 +97,9 @@ class SourceRapports implements Source {
     const firme = FIRMES_RAPPORTS[r.firme] ?? r.firme;
     const sondages: Sondage[] = [], parts: Part[] = [];
     for (const [groupe, { n, parts: p }] of Object.entries(r.groupes as Record<string, { n: number | null; parts: Record<string, number> }>)) {
-      const id = idSondage(r.juridiction, groupe, firme, r.date_fin, n);
+      // Clé distincte de celle de Wikipédia (même firme, date et effectif) :
+      // les deux versions d'un sondage gardent leurs parts jusqu'au dédoublonnage.
+      const id = idSondage(r.juridiction, groupe, firme, r.date_fin, `${n ?? ""}|rapport`);
       sondages.push({ id, juridiction: r.juridiction, region: groupe, firme, date_debut: r.date_debut ?? "", date_fin: r.date_fin,
         n: n === null || n === undefined ? "" : String(n), n_decides: "", provenance: cle, reference: r.reference || r.document });
       for (const [parti, pct] of Object.entries(p)) parts.push({ id, parti, pct: String(pct) });

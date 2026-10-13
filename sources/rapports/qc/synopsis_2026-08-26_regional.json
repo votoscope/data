@@ -1,0 +1,44 @@
+{
+  "juridiction": "qc-provincial",
+  "firme": "Synopsis Recherche",
+  "date_debut": "",
+  "date_fin": "2026-08-26",
+  "document": "Synopsis/La Presse, terrain 24-26 aout 2026",
+  "reference": "https://divers.lpcdn.ca/redact/lapresse/actualites/NOUVEAU%20sondage.pdf",
+  "note": "",
+  "groupes": {
+    "RMR-MTL": {
+      "n": 417,
+      "parts": {
+        "PQ": 26.9,
+        "CAQ": 23.3,
+        "LIB": 26.2,
+        "PCQ": 10,
+        "QS": 12.1,
+        "AUTRES": 1.5
+      }
+    },
+    "RMR-QC": {
+      "n": 155,
+      "parts": {
+        "CAQ": 36,
+        "PQ": 28,
+        "PCQ": 22,
+        "LIB": 7,
+        "QS": 6,
+        "AUTRES": 1
+      }
+    },
+    "RESTE-QC": {
+      "n": 295,
+      "parts": {
+        "PQ": 29,
+        "CAQ": 28,
+        "PCQ": 17,
+        "LIB": 16,
+        "QS": 8,
+        "AUTRES": 1
+      }
+    }
+  }
+}

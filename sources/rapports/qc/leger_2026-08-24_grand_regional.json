@@ -1,0 +1,44 @@
+{
+  "juridiction": "qc-provincial",
+  "firme": "Léger",
+  "date_debut": "",
+  "date_fin": "2026-08-24",
+  "document": "Grand sondage régional Léger - juin à août 2026.pdf (Léger/Le Journal/TVA, cumul 12 juin-24 août 2026)",
+  "reference": "",
+  "note": "",
+  "groupes": {
+    "RMR-MTL": {
+      "n": 3713,
+      "parts": {
+        "LIB": 32,
+        "PQ": 25,
+        "CAQ": 21,
+        "PCQ": 13,
+        "QS": 8,
+        "AUTRES": 1
+      }
+    },
+    "RMR-QC": {
+      "n": 2795,
+      "parts": {
+        "PQ": 30,
+        "PCQ": 30,
+        "CAQ": 21,
+        "LIB": 13,
+        "QS": 6,
+        "AUTRES": 0
+      }
+    },
+    "RESTE-QC": {
+      "n": 2727,
+      "parts": {
+        "PQ": 36,
+        "CAQ": 26,
+        "PCQ": 17,
+        "LIB": 14,
+        "QS": 6,
+        "AUTRES": 1
+      }
+    }
+  }
+}

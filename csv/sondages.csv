@@ -2413,22 +2413,29 @@ a82c3ba1278fcb66,qc-provincial,NONFRANCO,Synopsis Recherche,,2026-08-10,,,wikipe
 4497e913931488f3,qc-provincial,FRANCO,Léger,,2026-08-24,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
 7e9950d0efc59b5c,qc-provincial,National,Léger,,2026-08-24,1010,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/8.%20%C3%89tudes%20m%C3%A9diatiques%20Ao%C3%BBt%202026/Rapport%20intentions%20de%20vote%20-%2024%20ao%C3%BBt%202026.pdf
 5d50b030f17ae15b,qc-provincial,NONFRANCO,Léger,,2026-08-24,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
+5110bfc4ac9336b2,qc-provincial,RESTE-QC,Léger,,2026-08-24,2727,,rapport:qc/leger_2026-08-24_grand_regional.json,"Grand sondage régional Léger - juin à août 2026.pdf (Léger/Le Journal/TVA, cumul 12 juin-24 août 2026)"
+bd5d0af6c2f17da7,qc-provincial,RMR-MTL,Léger,,2026-08-24,3713,,rapport:qc/leger_2026-08-24_grand_regional.json,"Grand sondage régional Léger - juin à août 2026.pdf (Léger/Le Journal/TVA, cumul 12 juin-24 août 2026)"
+5f1375b43134b18e,qc-provincial,RMR-QC,Léger,,2026-08-24,2795,,rapport:qc/leger_2026-08-24_grand_regional.json,"Grand sondage régional Léger - juin à août 2026.pdf (Léger/Le Journal/TVA, cumul 12 juin-24 août 2026)"
 d7021f63c96f6ca9,qc-provincial,FRANCO,Synopsis Recherche,,2026-08-26,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
 7aae382e3806e602,qc-provincial,ILE-MTL,Synopsis Recherche,,2026-08-26,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
 4038ee97b07d1968,qc-provincial,NONFRANCO,Synopsis Recherche,,2026-08-26,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
-b5a95a2d90c24a50,qc-provincial,RMR-QC,Synopsis Recherche,,2026-08-26,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
+3c7705a2ca1a4c3a,qc-provincial,RESTE-QC,Synopsis Recherche,,2026-08-26,295,,rapport:qc/synopsis_2026-08-26_regional.json,https://divers.lpcdn.ca/redact/lapresse/actualites/NOUVEAU%20sondage.pdf
+df4f4b8b19fd0d22,qc-provincial,RMR-MTL,Synopsis Recherche,,2026-08-26,417,,rapport:qc/synopsis_2026-08-26_regional.json,https://divers.lpcdn.ca/redact/lapresse/actualites/NOUVEAU%20sondage.pdf
+5bd1a774d85767dd,qc-provincial,RMR-QC,Synopsis Recherche,,2026-08-26,155,,rapport:qc/synopsis_2026-08-26_regional.json,https://divers.lpcdn.ca/redact/lapresse/actualites/NOUVEAU%20sondage.pdf
 fc16da69d2bafdf1,qc-provincial,National,Synopsis Recherche,,2026-08-27,1009,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
 a987648584701d84,qc-provincial,FRANCO,Pallas Data,,2026-08-29,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
 4572bef509131e5c,qc-provincial,ILE-MTL,Pallas Data,,2026-08-29,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,https://pallas-data.ca/2026/08/31/pallas-quebec-poll-pq-29-caq-24-plq-22-pcq-16-qs-9/
 55fcea58b56e5f2f,qc-provincial,National,Pallas Data,,2026-08-29,1108,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,https://pallas-data.ca/2026/08/31/pallas-quebec-poll-pq-29-caq-24-plq-22-pcq-16-qs-9/
 208067f4cd2b7302,qc-provincial,NONFRANCO,Pallas Data,,2026-08-29,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
-e52ff137bd9acc59,qc-provincial,RESTE-QC,Pallas Data,,2026-08-29,296,,rapport:qc/pallas_2026-08-29_regional.json,"PallasData-Quebec-ElectionWeek1-PUBLIC-30aout2026.pdf (Pallas Data, terrain 29 août 2026, p. 11)"
-4f0c248b62381a60,qc-provincial,RMR-MTL,Pallas Data,,2026-08-29,618,,rapport:qc/pallas_2026-08-29_regional.json,"PallasData-Quebec-ElectionWeek1-PUBLIC-30aout2026.pdf (Pallas Data, terrain 29 août 2026, p. 11)"
-e087d96cc37bf951,qc-provincial,RMR-QC,Pallas Data,,2026-08-29,160,,rapport:qc/pallas_2026-08-29_regional.json,"PallasData-Quebec-ElectionWeek1-PUBLIC-30aout2026.pdf (Pallas Data, terrain 29 août 2026, p. 11)"
+3c939b1242050120,qc-provincial,RESTE-QC,Pallas Data,,2026-08-29,296,,rapport:qc/pallas_2026-08-29_regional.json,"PallasData-Quebec-ElectionWeek1-PUBLIC-30aout2026.pdf (Pallas Data, terrain 29 août 2026, p. 11)"
+2172e39cb19b6b24,qc-provincial,RMR-MTL,Pallas Data,,2026-08-29,618,,rapport:qc/pallas_2026-08-29_regional.json,"PallasData-Quebec-ElectionWeek1-PUBLIC-30aout2026.pdf (Pallas Data, terrain 29 août 2026, p. 11)"
+65d49ea9791a5755,qc-provincial,RMR-QC,Pallas Data,,2026-08-29,160,,rapport:qc/pallas_2026-08-29_regional.json,"PallasData-Quebec-ElectionWeek1-PUBLIC-30aout2026.pdf (Pallas Data, terrain 29 août 2026, p. 11)"
 aead8daaa61f1c42,qc-provincial,FRANCO,Léger,,2026-08-31,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
 942dcd592a082af6,qc-provincial,National,Léger,,2026-08-31,1008,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,https://leger360.com/wp-content/uploads/2026/08/Rapport-intentions-de-vote-31-aout-2026-VF.pdf
 bb7a19b85fcb085f,qc-provincial,NONFRANCO,Léger,,2026-08-31,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
-ee379a00631260c7,qc-provincial,RMR-QC,Léger,,2026-08-31,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,https://leger360.com/wp-content/uploads/2026/08/Rapport-intentions-de-vote-31-aout-2026-VF.pdf
+e7688e63abc45e33,qc-provincial,RESTE-QC,Léger,,2026-08-31,250,,rapport:qc/leger_2026-08-31_regional.json,"Rapport-intentions-de-vote-31-aout-2026-VF.pdf (Léger/Le Journal/TVA, terrain 28-31 août 2026)"
+3af88844c750b79a,qc-provincial,RMR-MTL,Léger,,2026-08-31,364,,rapport:qc/leger_2026-08-31_regional.json,"Rapport-intentions-de-vote-31-aout-2026-VF.pdf (Léger/Le Journal/TVA, terrain 28-31 août 2026)"
+43350174ee92e600,qc-provincial,RMR-QC,Léger,,2026-08-31,268,,rapport:qc/leger_2026-08-31_regional.json,"Rapport-intentions-de-vote-31-aout-2026-VF.pdf (Léger/Le Journal/TVA, terrain 28-31 août 2026)"
 125cc5ea5d781a2f,qc-provincial,FRANCO,Pallas Data,,2026-09-05,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
 da1d3735fa8f8b60,qc-provincial,ILE-MTL,Pallas Data,,2026-09-05,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
 9cf84beef6894161,qc-provincial,National,Pallas Data,,2026-09-05,1040,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
@@ -2438,15 +2445,15 @@ da1d3735fa8f8b60,qc-provincial,ILE-MTL,Pallas Data,,2026-09-05,,,wikipedia:fr:Li
 bbf81fde17b597d6,qc-provincial,National,Léger,,2026-09-06,1008,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,https://leger360.com/wp-content/uploads/2026/09/Rapport-intentions-de-vote-7-septembre-2026-VF.pdf
 0025ebfb1bccb3d0,qc-provincial,NONFRANCO,Léger,,2026-09-06,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
 4bd05abf981f4e27,qc-provincial,RMR-QC,Léger,,2026-09-06,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,https://leger360.com/wp-content/uploads/2026/09/Rapport-intentions-de-vote-7-septembre-2026-VF.pdf
-ad0f15c98077e7f7,qc-provincial,National,Léger,,2026-09-07,1008,,rapport:qc/leger_2026-09-07.json,"Rapport-intentions-de-vote-7-septembre-2026-VF.pdf (Léger/Le Journal/TVA, rapport du 7 septembre 2026)"
-0077cb64d5f0b1df,qc-provincial,RESTE-QC,Léger,,2026-09-07,256,,rapport:qc/leger_2026-09-07.json,"Rapport-intentions-de-vote-7-septembre-2026-VF.pdf (Léger/Le Journal/TVA, rapport du 7 septembre 2026)"
-d3dfea58bfb75d41,qc-provincial,RMR-MTL,Léger,,2026-09-07,338,,rapport:qc/leger_2026-09-07.json,"Rapport-intentions-de-vote-7-septembre-2026-VF.pdf (Léger/Le Journal/TVA, rapport du 7 septembre 2026)"
-06848abf58af184c,qc-provincial,RMR-QC,Léger,,2026-09-07,265,,rapport:qc/leger_2026-09-07.json,"Rapport-intentions-de-vote-7-septembre-2026-VF.pdf (Léger/Le Journal/TVA, rapport du 7 septembre 2026)"
+4353697e374d9578,qc-provincial,National,Léger,,2026-09-07,1008,,rapport:qc/leger_2026-09-07.json,"Rapport-intentions-de-vote-7-septembre-2026-VF.pdf (Léger/Le Journal/TVA, rapport du 7 septembre 2026)"
+8b749ee0fa4570c7,qc-provincial,RESTE-QC,Léger,,2026-09-07,256,,rapport:qc/leger_2026-09-07.json,"Rapport-intentions-de-vote-7-septembre-2026-VF.pdf (Léger/Le Journal/TVA, rapport du 7 septembre 2026)"
+7516113bd954d4c0,qc-provincial,RMR-MTL,Léger,,2026-09-07,338,,rapport:qc/leger_2026-09-07.json,"Rapport-intentions-de-vote-7-septembre-2026-VF.pdf (Léger/Le Journal/TVA, rapport du 7 septembre 2026)"
+28c7cff0dcdc77bf,qc-provincial,RMR-QC,Léger,,2026-09-07,265,,rapport:qc/leger_2026-09-07.json,"Rapport-intentions-de-vote-7-septembre-2026-VF.pdf (Léger/Le Journal/TVA, rapport du 7 septembre 2026)"
 7a17cd2ee534c357,qc-provincial,ILE-MTL,Pallas Data,,2026-09-12,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,https://pallas-data.ca/fr/2026/09/14/pallas-quebec-poll-pq-27-caq-23-plq-23-pcq-16-qs-11/
 d86a196738672ea5,qc-provincial,National,Pallas Data,,2026-09-12,1085,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,https://pallas-data.ca/fr/2026/09/14/pallas-quebec-poll-pq-27-caq-23-plq-23-pcq-16-qs-11/
-a77bbef97e3e66c6,qc-provincial,RESTE-QC,Pallas Data,,2026-09-12,301,,rapport:qc/pallas_2026-09-12_regional.json,"PallasData-Quebec-ElectionSemaine3-13septembre2026.pdf (Pallas Data, terrain 12 septembre 2026, p. 12)"
-ca01cae53eff4bcb,qc-provincial,RMR-MTL,Pallas Data,,2026-09-12,602,,rapport:qc/pallas_2026-09-12_regional.json,"PallasData-Quebec-ElectionSemaine3-13septembre2026.pdf (Pallas Data, terrain 12 septembre 2026, p. 12)"
-189763ed12c519aa,qc-provincial,RMR-QC,Pallas Data,,2026-09-12,152,,rapport:qc/pallas_2026-09-12_regional.json,"PallasData-Quebec-ElectionSemaine3-13septembre2026.pdf (Pallas Data, terrain 12 septembre 2026, p. 12)"
+c814e31581b72694,qc-provincial,RESTE-QC,Pallas Data,,2026-09-12,301,,rapport:qc/pallas_2026-09-12_regional.json,"PallasData-Quebec-ElectionSemaine3-13septembre2026.pdf (Pallas Data, terrain 12 septembre 2026, p. 12)"
+d069e2211594f735,qc-provincial,RMR-MTL,Pallas Data,,2026-09-12,602,,rapport:qc/pallas_2026-09-12_regional.json,"PallasData-Quebec-ElectionSemaine3-13septembre2026.pdf (Pallas Data, terrain 12 septembre 2026, p. 12)"
+749acd986618b642,qc-provincial,RMR-QC,Pallas Data,,2026-09-12,152,,rapport:qc/pallas_2026-09-12_regional.json,"PallasData-Quebec-ElectionSemaine3-13septembre2026.pdf (Pallas Data, terrain 12 septembre 2026, p. 12)"
 5a6c8819c8e838be,qc-provincial,FRANCO,Léger,,2026-09-13,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
 0d5af17eb3c97ade,qc-provincial,National,Léger,,2026-09-13,1013,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,https://leger360.com/wp-content/uploads/2026/09/VMEDIA1_Rapport-intentions-de-vote-14-septembre-2026-Finale.pdf
 6b175049e7b03ba7,qc-provincial,NONFRANCO,Léger,,2026-09-13,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
@@ -2460,57 +2467,57 @@ ab1bd0fb905b440b,qc-provincial,FRANCO,Synopsis Recherche,,2026-09-13,,,wikipedia
 46a8657fa183cf37,qc-provincial,ILE-MTL,Synopsis Recherche,,2026-09-13,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,https://divers.lpcdn.ca/redact/lapresse/actualites/LAP.21%20-%20Rapport%20-%20volet%20indicateurs%20politiques.pdf
 5ced15f86d63017a,qc-provincial,National,Synopsis Recherche,,2026-09-13,879,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,https://divers.lpcdn.ca/redact/lapresse/actualites/LAP.21%20-%20Rapport%20-%20volet%20indicateurs%20politiques.pdf
 b6e4daf1170eee98,qc-provincial,NONFRANCO,Synopsis Recherche,,2026-09-13,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
-5de53f343cd0cf7b,qc-provincial,RESTE-QC,Synopsis Recherche,,2026-09-13,299,,rapport:qc/synopsis_2026-09-13.json,"synopsis.pdf (Synopsis/La Presse, terrain 10-13 septembre 2026, graphiques de l'article)"
-c6bdb7640b704e2b,qc-provincial,RMR-MTL,Synopsis Recherche,,2026-09-13,423,,rapport:qc/synopsis_2026-09-13.json,"synopsis.pdf (Synopsis/La Presse, terrain 10-13 septembre 2026, graphiques de l'article)"
-919ce380b3542194,qc-provincial,RMR-QC,Synopsis Recherche,,2026-09-13,157,,rapport:qc/synopsis_2026-09-13.json,"synopsis.pdf (Synopsis/La Presse, terrain 10-13 septembre 2026, graphiques de l'article)"
-bca1afb2deb9dd4b,qc-provincial,National,Léger,,2026-09-14,1013,,rapport:qc/leger_2026-09-14.json,"VMEDIA1_Rapport-intentions-de-vote-14-septembre-2026-Finale.pdf (Léger/Le Journal/TVA, rapport du 14 septembre 2026)"
-40edbd11bcb7a53d,qc-provincial,RESTE-QC,Léger,,2026-09-14,248,,rapport:qc/leger_2026-09-14.json,"VMEDIA1_Rapport-intentions-de-vote-14-septembre-2026-Finale.pdf (Léger/Le Journal/TVA, rapport du 14 septembre 2026)"
-f35da517073ccee5,qc-provincial,RMR-MTL,Léger,,2026-09-14,332,,rapport:qc/leger_2026-09-14.json,"VMEDIA1_Rapport-intentions-de-vote-14-septembre-2026-Finale.pdf (Léger/Le Journal/TVA, rapport du 14 septembre 2026)"
-2d4a63963288ab89,qc-provincial,RMR-QC,Léger,,2026-09-14,262,,rapport:qc/leger_2026-09-14.json,"VMEDIA1_Rapport-intentions-de-vote-14-septembre-2026-Finale.pdf (Léger/Le Journal/TVA, rapport du 14 septembre 2026)"
+8f98ef1ba346bd8c,qc-provincial,RESTE-QC,Synopsis Recherche,,2026-09-13,299,,rapport:qc/synopsis_2026-09-13.json,"synopsis.pdf (Synopsis/La Presse, terrain 10-13 septembre 2026, graphiques de l'article)"
+34b224294e6ca4b3,qc-provincial,RMR-MTL,Synopsis Recherche,,2026-09-13,423,,rapport:qc/synopsis_2026-09-13.json,"synopsis.pdf (Synopsis/La Presse, terrain 10-13 septembre 2026, graphiques de l'article)"
+ffcc5c649eb4b434,qc-provincial,RMR-QC,Synopsis Recherche,,2026-09-13,157,,rapport:qc/synopsis_2026-09-13.json,"synopsis.pdf (Synopsis/La Presse, terrain 10-13 septembre 2026, graphiques de l'article)"
+80fba9edf7da8831,qc-provincial,National,Léger,,2026-09-14,1013,,rapport:qc/leger_2026-09-14.json,"VMEDIA1_Rapport-intentions-de-vote-14-septembre-2026-Finale.pdf (Léger/Le Journal/TVA, rapport du 14 septembre 2026)"
+05cd016cb9e51244,qc-provincial,RESTE-QC,Léger,,2026-09-14,248,,rapport:qc/leger_2026-09-14.json,"VMEDIA1_Rapport-intentions-de-vote-14-septembre-2026-Finale.pdf (Léger/Le Journal/TVA, rapport du 14 septembre 2026)"
+1949a91548f179f6,qc-provincial,RMR-MTL,Léger,,2026-09-14,332,,rapport:qc/leger_2026-09-14.json,"VMEDIA1_Rapport-intentions-de-vote-14-septembre-2026-Finale.pdf (Léger/Le Journal/TVA, rapport du 14 septembre 2026)"
+b3003038cd47a093,qc-provincial,RMR-QC,Léger,,2026-09-14,262,,rapport:qc/leger_2026-09-14.json,"VMEDIA1_Rapport-intentions-de-vote-14-septembre-2026-Finale.pdf (Léger/Le Journal/TVA, rapport du 14 septembre 2026)"
 4cceee3f80e5d27b,qc-provincial,National,Nanos,,2026-09-14,537,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,https://www.noovo.info/nouvelles/politique/elections-quebec/article/la-caq-tombe-troisieme-dans-un-sondage-electoral-commande-par-noovo-et-crave/
 602c9151a547bd6f,qc-provincial,RMR-QC,Nanos,,2026-09-14,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,https://www.noovo.info/nouvelles/politique/elections-quebec/article/la-caq-tombe-troisieme-dans-un-sondage-electoral-commande-par-noovo-et-crave/
 a9284171d808e3be,qc-provincial,National,Segma / Radio-Canada,,2026-09-17,5572,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
 0aecd1ea175a2d7c,qc-provincial,FRANCO,Segma Recherche,,2026-09-17,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
 1fb9d3af243ccbbc,qc-provincial,ILE-MTL,Segma Recherche,,2026-09-17,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
-06e66ee27cf99aa6,qc-provincial,National,Segma Recherche,,2026-09-17,5572,,rapport:qc/segma_2026-09-17.json,"https://ici.radio-canada.ca/info/long-format/2285606/sondage-radio-canada-parti-quebec-conservateur-liberaux (Segma/Radio-Canada/Coops de l'information, terrain 8-17 septembre 2026)"
+c459b17c18586f4d,qc-provincial,National,Segma Recherche,,2026-09-17,5572,,rapport:qc/segma_2026-09-17.json,"https://ici.radio-canada.ca/info/long-format/2285606/sondage-radio-canada-parti-quebec-conservateur-liberaux (Segma/Radio-Canada/Coops de l'information, terrain 8-17 septembre 2026)"
 0324dd283704e2b5,qc-provincial,NONFRANCO,Segma Recherche,,2026-09-17,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
-b8300bf625276c0d,qc-provincial,RESTE-QC,Segma Recherche,,2026-09-17,2471,,rapport:qc/segma_2026-09-17_regional.json,"segma_rapport_2026-09-17.pdf (Segma/Radio-Canada/Coops, terrain 8-17 septembre 2026, p. 5)"
-9962213d70aea953,qc-provincial,RMR-MTL,Segma Recherche,,2026-09-17,1501,,rapport:qc/segma_2026-09-17_regional.json,"segma_rapport_2026-09-17.pdf (Segma/Radio-Canada/Coops, terrain 8-17 septembre 2026, p. 5)"
-f007a0035d77238b,qc-provincial,RMR-QC,Segma Recherche,,2026-09-17,622,,rapport:qc/segma_2026-09-17_regional.json,"segma_rapport_2026-09-17.pdf (Segma/Radio-Canada/Coops, terrain 8-17 septembre 2026, p. 5)"
+db6e62cb2005adcf,qc-provincial,RESTE-QC,Segma Recherche,,2026-09-17,2471,,rapport:qc/segma_2026-09-17_regional.json,"segma_rapport_2026-09-17.pdf (Segma/Radio-Canada/Coops, terrain 8-17 septembre 2026, p. 5)"
+fa9aa52658106f2b,qc-provincial,RMR-MTL,Segma Recherche,,2026-09-17,1501,,rapport:qc/segma_2026-09-17_regional.json,"segma_rapport_2026-09-17.pdf (Segma/Radio-Canada/Coops, terrain 8-17 septembre 2026, p. 5)"
+ecac40960384c7be,qc-provincial,RMR-QC,Segma Recherche,,2026-09-17,622,,rapport:qc/segma_2026-09-17_regional.json,"segma_rapport_2026-09-17.pdf (Segma/Radio-Canada/Coops, terrain 8-17 septembre 2026, p. 5)"
 5291db831c304e0b,qc-provincial,FRANCO,Pallas Data,,2026-09-19,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
 f7f0fd28b65733fa,qc-provincial,ILE-MTL,Pallas Data,,2026-09-19,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
 fc5cac193d4fd212,qc-provincial,National,Pallas Data,,2026-09-19,1089,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
 4b65bbfc4aefa741,qc-provincial,NONFRANCO,Pallas Data,,2026-09-19,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
-c495f35f02f73bea,qc-provincial,RESTE-QC,Pallas Data,,2026-09-19,365,,rapport:qc/pallas_2026-09-19_regional.json,"PallasData-Quebec-Semaine4-19septembre2026.pdf (Pallas Data, terrain 19 septembre 2026, p. 12)"
-108b284470676041,qc-provincial,RMR-MTL,Pallas Data,,2026-09-19,608,,rapport:qc/pallas_2026-09-19_regional.json,"PallasData-Quebec-Semaine4-19septembre2026.pdf (Pallas Data, terrain 19 septembre 2026, p. 12)"
-0707b7b1e4723f94,qc-provincial,RMR-QC,Pallas Data,,2026-09-19,116,,rapport:qc/pallas_2026-09-19_regional.json,"PallasData-Quebec-Semaine4-19septembre2026.pdf (Pallas Data, terrain 19 septembre 2026, p. 12)"
+99982ac522e8115e,qc-provincial,RESTE-QC,Pallas Data,,2026-09-19,365,,rapport:qc/pallas_2026-09-19_regional.json,"PallasData-Quebec-Semaine4-19septembre2026.pdf (Pallas Data, terrain 19 septembre 2026, p. 12)"
+bc19cc44b0ae2100,qc-provincial,RMR-MTL,Pallas Data,,2026-09-19,608,,rapport:qc/pallas_2026-09-19_regional.json,"PallasData-Quebec-Semaine4-19septembre2026.pdf (Pallas Data, terrain 19 septembre 2026, p. 12)"
+8eba247498e10f62,qc-provincial,RMR-QC,Pallas Data,,2026-09-19,116,,rapport:qc/pallas_2026-09-19_regional.json,"PallasData-Quebec-Semaine4-19septembre2026.pdf (Pallas Data, terrain 19 septembre 2026, p. 12)"
 0c4f218484213e4b,qc-provincial,FRANCO,Léger,,2026-09-21,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
 d44e59f816a55357,qc-provincial,National,Léger,,2026-09-21,1001,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/9.%20%C3%89tudes%20m%C3%A9diatiques%20septembre%202026/QC%20Pol%2021%20September/Rapport%20intentions%20de%20vote%20-%2021%20septembre%202026.pdf
 c30fc7441a8c6ea3,qc-provincial,NONFRANCO,Léger,,2026-09-21,,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
-3f384af20876b023,qc-provincial,RESTE-QC,Léger,,2026-09-21,272,,rapport:qc/leger_2026-09-21.json,"Rapport intentions de vote - 21 septembre 2026.pdf (Léger/Le Journal/TVA, terrain 18-21 septembre 2026)"
-fedfe2d9648b3a65,qc-provincial,RMR-MTL,Léger,,2026-09-21,350,,rapport:qc/leger_2026-09-21.json,"Rapport intentions de vote - 21 septembre 2026.pdf (Léger/Le Journal/TVA, terrain 18-21 septembre 2026)"
-f759e90fbe1d7ef2,qc-provincial,RMR-QC,Léger,,2026-09-21,281,,rapport:qc/leger_2026-09-21.json,"Rapport intentions de vote - 21 septembre 2026.pdf (Léger/Le Journal/TVA, terrain 18-21 septembre 2026)"
+714c4832b555623d,qc-provincial,RESTE-QC,Léger,,2026-09-21,272,,rapport:qc/leger_2026-09-21.json,"Rapport intentions de vote - 21 septembre 2026.pdf (Léger/Le Journal/TVA, terrain 18-21 septembre 2026)"
+7055505f770a56bf,qc-provincial,RMR-MTL,Léger,,2026-09-21,350,,rapport:qc/leger_2026-09-21.json,"Rapport intentions de vote - 21 septembre 2026.pdf (Léger/Le Journal/TVA, terrain 18-21 septembre 2026)"
+a8a85b88bc4591b9,qc-provincial,RMR-QC,Léger,,2026-09-21,281,,rapport:qc/leger_2026-09-21.json,"Rapport intentions de vote - 21 septembre 2026.pdf (Léger/Le Journal/TVA, terrain 18-21 septembre 2026)"
 1d631d5e6347d2ed,qc-provincial,National,Pallas Data,,2026-09-26,1192,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
-6dcceed8d485fb71,qc-provincial,RESTE-QC,Pallas Data,,2026-09-26,358,,rapport:qc/pallas_2026-09-26_regional.json,"2026-09-26-pallas.pdf (Pallas Data, terrain 26 septembre 2026, p. 12)"
-a6aeef561afa2047,qc-provincial,RMR-MTL,Pallas Data,,2026-09-26,581,,rapport:qc/pallas_2026-09-26_regional.json,"2026-09-26-pallas.pdf (Pallas Data, terrain 26 septembre 2026, p. 12)"
-971b24d2dd934e74,qc-provincial,RMR-QC,Pallas Data,,2026-09-26,225,,rapport:qc/pallas_2026-09-26_regional.json,"2026-09-26-pallas.pdf (Pallas Data, terrain 26 septembre 2026, p. 12)"
+0ac2c6d1244bc392,qc-provincial,RESTE-QC,Pallas Data,,2026-09-26,358,,rapport:qc/pallas_2026-09-26_regional.json,"2026-09-26-pallas.pdf (Pallas Data, terrain 26 septembre 2026, p. 12)"
+818628041d2cdd7b,qc-provincial,RMR-MTL,Pallas Data,,2026-09-26,581,,rapport:qc/pallas_2026-09-26_regional.json,"2026-09-26-pallas.pdf (Pallas Data, terrain 26 septembre 2026, p. 12)"
+6074a5c12a0644f5,qc-provincial,RMR-QC,Pallas Data,,2026-09-26,225,,rapport:qc/pallas_2026-09-26_regional.json,"2026-09-26-pallas.pdf (Pallas Data, terrain 26 septembre 2026, p. 12)"
 9729d531c7261e39,qc-provincial,National,Léger,,2026-09-27,1001,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
-c9143194b4f2bd3b,qc-provincial,RESTE-QC,Léger,,2026-09-27,250,,rapport:qc/leger_2026-09-27.json,"2026-09-26-leger.pdf (Léger/Le Journal/TVA, terrain 25-27 septembre 2026)"
-144c72a1ab2e4915,qc-provincial,RMR-MTL,Léger,,2026-09-27,350,,rapport:qc/leger_2026-09-27.json,"2026-09-26-leger.pdf (Léger/Le Journal/TVA, terrain 25-27 septembre 2026)"
-a4240c47872e4658,qc-provincial,RMR-QC,Léger,,2026-09-27,273,,rapport:qc/leger_2026-09-27.json,"2026-09-26-leger.pdf (Léger/Le Journal/TVA, terrain 25-27 septembre 2026)"
+a9f047c63d7b204a,qc-provincial,RESTE-QC,Léger,,2026-09-27,250,,rapport:qc/leger_2026-09-27.json,"2026-09-26-leger.pdf (Léger/Le Journal/TVA, terrain 25-27 septembre 2026)"
+c465124cd5ba8db9,qc-provincial,RMR-MTL,Léger,,2026-09-27,350,,rapport:qc/leger_2026-09-27.json,"2026-09-26-leger.pdf (Léger/Le Journal/TVA, terrain 25-27 septembre 2026)"
+4936db007d6072f5,qc-provincial,RMR-QC,Léger,,2026-09-27,273,,rapport:qc/leger_2026-09-27.json,"2026-09-26-leger.pdf (Léger/Le Journal/TVA, terrain 25-27 septembre 2026)"
 56136ed4dd5e5906,qc-provincial,National,Synopsis Recherche,,2026-09-27,1000,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
-08fc205d964e4041,qc-provincial,RESTE-QC,Synopsis Recherche,,2026-09-27,310,,rapport:qc/synopsis_2026-09-27.json,"2026-09-26-synopsis.pdf (Synopsis/La Presse, terrain 24-27 septembre 2026, p. 7)"
-c2670e6e6273c96f,qc-provincial,RMR-MTL,Synopsis Recherche,,2026-09-27,363,,rapport:qc/synopsis_2026-09-27.json,"2026-09-26-synopsis.pdf (Synopsis/La Presse, terrain 24-27 septembre 2026, p. 7)"
-7957678e4126d49a,qc-provincial,RMR-QC,Synopsis Recherche,,2026-09-27,188,,rapport:qc/synopsis_2026-09-27.json,"2026-09-26-synopsis.pdf (Synopsis/La Presse, terrain 24-27 septembre 2026, p. 7)"
-fbc572a1cb5682e2,qc-provincial,National,Léger,,2026-10-01,1000,,rapport:qc/leger_2026-10-01.json,"Rapport intentions de vote - 3 octobre 2026.pdf (Léger/Le Journal/TVA, terrain 30 septembre - 1er octobre 2026)"
-c3ed040ba8f9db69,qc-provincial,RESTE-QC,Léger,,2026-10-01,263,,rapport:qc/leger_2026-10-01.json,"Rapport intentions de vote - 3 octobre 2026.pdf (Léger/Le Journal/TVA, terrain 30 septembre - 1er octobre 2026)"
-a0184c27b6505c19,qc-provincial,RMR-MTL,Léger,,2026-10-01,373,,rapport:qc/leger_2026-10-01.json,"Rapport intentions de vote - 3 octobre 2026.pdf (Léger/Le Journal/TVA, terrain 30 septembre - 1er octobre 2026)"
-6a0b04e8e640a077,qc-provincial,RMR-QC,Léger,,2026-10-01,256,,rapport:qc/leger_2026-10-01.json,"Rapport intentions de vote - 3 octobre 2026.pdf (Léger/Le Journal/TVA, terrain 30 septembre - 1er octobre 2026)"
+ff40834070725ec8,qc-provincial,RESTE-QC,Synopsis Recherche,,2026-09-27,310,,rapport:qc/synopsis_2026-09-27.json,"2026-09-26-synopsis.pdf (Synopsis/La Presse, terrain 24-27 septembre 2026, p. 7)"
+c8920dc505199f7e,qc-provincial,RMR-MTL,Synopsis Recherche,,2026-09-27,363,,rapport:qc/synopsis_2026-09-27.json,"2026-09-26-synopsis.pdf (Synopsis/La Presse, terrain 24-27 septembre 2026, p. 7)"
+7cf52c51dc032fa2,qc-provincial,RMR-QC,Synopsis Recherche,,2026-09-27,188,,rapport:qc/synopsis_2026-09-27.json,"2026-09-26-synopsis.pdf (Synopsis/La Presse, terrain 24-27 septembre 2026, p. 7)"
+d8ff4a9cb6f19e89,qc-provincial,National,Léger,,2026-10-01,1000,,rapport:qc/leger_2026-10-01.json,"Rapport intentions de vote - 3 octobre 2026.pdf (Léger/Le Journal/TVA, terrain 30 septembre - 1er octobre 2026)"
+ddcc71cd915330b2,qc-provincial,RESTE-QC,Léger,,2026-10-01,263,,rapport:qc/leger_2026-10-01.json,"Rapport intentions de vote - 3 octobre 2026.pdf (Léger/Le Journal/TVA, terrain 30 septembre - 1er octobre 2026)"
+2591b922b19070e7,qc-provincial,RMR-MTL,Léger,,2026-10-01,373,,rapport:qc/leger_2026-10-01.json,"Rapport intentions de vote - 3 octobre 2026.pdf (Léger/Le Journal/TVA, terrain 30 septembre - 1er octobre 2026)"
+a4b032f4edf6a934,qc-provincial,RMR-QC,Léger,,2026-10-01,256,,rapport:qc/leger_2026-10-01.json,"Rapport intentions de vote - 3 octobre 2026.pdf (Léger/Le Journal/TVA, terrain 30 septembre - 1er octobre 2026)"
 76c124db0b3d088c,qc-provincial,National,Léger,,2026-10-03,1000,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/9.%20%C3%89tudes%20m%C3%A9diatiques%20septembre%202026/QC%20Pol%20October%202nd/Rapport%20intentions%20de%20vote%20-%203%20octobre%202026.pdf
 3149489a6d0c4407,qc-provincial,National,Mainstreet Research,,2026-10-03,2011,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,https://cdn.prod.website-files.com/66c8dfb086a015b3b519e988/6ac280ad12cb625849cef5d8_Quebec_October_3_2026_FR_Public.pdf
 185eb3f0a6e92195,qc-provincial,National,Pallas Data,,2026-10-03,1137,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
-e447536b9b506432,qc-provincial,RESTE-QC,Pallas Data,,2026-10-03,353,,rapport:qc/pallas_2026-10-03_regional.json,"2026-10-03-pallas.pdf (Pallas Data, terrain 3 octobre 2026, p. 12)"
-2defe69fe365f5a4,qc-provincial,RMR-MTL,Pallas Data,,2026-10-03,591,,rapport:qc/pallas_2026-10-03_regional.json,"2026-10-03-pallas.pdf (Pallas Data, terrain 3 octobre 2026, p. 12)"
-549c8d11eb60e9c9,qc-provincial,RMR-QC,Pallas Data,,2026-10-03,170,,rapport:qc/pallas_2026-10-03_regional.json,"2026-10-03-pallas.pdf (Pallas Data, terrain 3 octobre 2026, p. 12)"
+064f09d942de111f,qc-provincial,RESTE-QC,Pallas Data,,2026-10-03,353,,rapport:qc/pallas_2026-10-03_regional.json,"2026-10-03-pallas.pdf (Pallas Data, terrain 3 octobre 2026, p. 12)"
+ee480d619cf6727d,qc-provincial,RMR-MTL,Pallas Data,,2026-10-03,591,,rapport:qc/pallas_2026-10-03_regional.json,"2026-10-03-pallas.pdf (Pallas Data, terrain 3 octobre 2026, p. 12)"
+d8541aea7ae7dd90,qc-provincial,RMR-QC,Pallas Data,,2026-10-03,170,,rapport:qc/pallas_2026-10-03_regional.json,"2026-10-03-pallas.pdf (Pallas Data, terrain 3 octobre 2026, p. 12)"
 618b93680c797348,qc-provincial,National,Research Co.,,2026-10-03,708,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,
 90fe60f0a36832e4,qc-provincial,National,Forum Research,,2026-10-04,1227,,wikipedia:fr:Liste de sondages sur les élections générales québécoises de 2026,https://www.forumresearch.com/news/2026/10/parti-quebecois-liberals-in-tight-race-as-quebec-heads-to-polls

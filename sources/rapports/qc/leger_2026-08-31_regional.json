@@ -1,0 +1,44 @@
+{
+  "juridiction": "qc-provincial",
+  "firme": "Léger",
+  "date_debut": "",
+  "date_fin": "2026-08-31",
+  "document": "Rapport-intentions-de-vote-31-aout-2026-VF.pdf (Léger/Le Journal/TVA, terrain 28-31 août 2026)",
+  "reference": "",
+  "note": "",
+  "groupes": {
+    "RMR-MTL": {
+      "n": 364,
+      "parts": {
+        "PQ": 27,
+        "CAQ": 23,
+        "LIB": 30,
+        "PCQ": 9,
+        "QS": 10,
+        "AUTRES": 0
+      }
+    },
+    "RMR-QC": {
+      "n": 268,
+      "parts": {
+        "PQ": 24,
+        "CAQ": 26,
+        "LIB": 12,
+        "PCQ": 30,
+        "QS": 8,
+        "AUTRES": 0
+      }
+    },
+    "RESTE-QC": {
+      "n": 250,
+      "parts": {
+        "PQ": 32,
+        "CAQ": 25,
+        "LIB": 13,
+        "PCQ": 19,
+        "QS": 10,
+        "AUTRES": 0
+      }
+    }
+  }
+}

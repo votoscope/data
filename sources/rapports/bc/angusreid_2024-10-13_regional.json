@@ -1,0 +1,46 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Angus Reid Institute",
+  "date_debut": "2024-10-09",
+  "date_fin": "2024-10-13",
+  "document": "The Slim Margin between Love & Hate: Voter motivation, regional battles reveal emerging B.C. campaign picture (Angus Reid Institute, 2024-10-14)",
+  "reference": "https://angusreid.org/bc-election-2024-polling-rustad-eby-furstenau-battlegrounds/",
+  "note": "Final ARI poll before the 2024-10-19 election. Online, Angus Reid Forum, n=2,863. Shares among decided, leaning and already-voted respondents from the tables (2024.10.14_BC_Post_Debate_tables.pdf, QVBC1/QVBC2/QM2). n = decided bases printed in the table. AUTRES = 'Other party/Independent candidate' total, which includes BC United (withdrawn; 0-1%), independents and Freedom Party. ARI uses six regions here; Metro Vancouver is split into three, so new codes: VANCOUVER-BURNABY ('City of Vancouver/ Burnaby'), RICHMOND-SURREY ('Richmond/ Surrey'), MAPLE-RIDGE-LANGLEY-COQUITLAM ('Maple Ridge/ Pitt Meadows/ Langley/ Coquitlam'), plus VANCOUVER-ISLAND-NORTH-COAST ('Island/North Coast').",
+  "groupes": {
+    "National": {
+      "n": 2480,
+      "libelle": "Total",
+      "parts": { "NDP": 45, "CON": 40, "GRN": 12, "AUTRES": 3 }
+    },
+    "VANCOUVER-BURNABY": {
+      "n": 269,
+      "libelle": "City of Vancouver/ Burnaby",
+      "parts": { "NDP": 56, "CON": 31, "GRN": 10, "AUTRES": 3 }
+    },
+    "RICHMOND-SURREY": {
+      "n": 554,
+      "libelle": "Richmond/ Surrey",
+      "parts": { "NDP": 49, "CON": 36, "GRN": 12, "AUTRES": 4 }
+    },
+    "MAPLE-RIDGE-LANGLEY-COQUITLAM": {
+      "n": 434,
+      "libelle": "Maple Ridge/ Pitt Meadows/ Langley/ Coquitlam",
+      "parts": { "NDP": 46, "CON": 44, "GRN": 8, "AUTRES": 2 }
+    },
+    "FRASER-VALLEY": {
+      "n": 400,
+      "libelle": "Fraser Valley",
+      "parts": { "NDP": 42, "CON": 48, "GRN": 8, "AUTRES": 2 }
+    },
+    "INTERIOR": {
+      "n": 286,
+      "libelle": "Interior",
+      "parts": { "NDP": 34, "CON": 50, "GRN": 10, "AUTRES": 6 }
+    },
+    "VANCOUVER-ISLAND-NORTH-COAST": {
+      "n": 543,
+      "libelle": "Island/North Coast",
+      "parts": { "NDP": 44, "CON": 36, "GRN": 19, "AUTRES": 1 }
+    }
+  }
+}

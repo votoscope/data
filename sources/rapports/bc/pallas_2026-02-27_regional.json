@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Pallas Data",
+  "date_debut": "2026-02-12",
+  "date_fin": "2026-02-27",
+  "document": "British Columbia Provincial Voting Intentions, Thoughts on The Provincial Budget Plus BC Conservative Voters' Thoughts On Leadership Election (Pallas Data, 2026-03-02)",
+  "reference": "https://files.constantcontact.com/f737aa99901/13d6b1a7-0809-454a-a8fe-f71830064bed.pdf",
+  "note": "IVR, n=1,256 (decided and leaning n=1,148). Shares from the 'Decided and Leaning Voters' table. n = unweighted decided-and-leaning bases. AUTRES = 'Another Party'. Region labels verbatim: Metro Vancouver, Vancouver Island, Rest of BC (coded INTERIOR-NORTH; Pallas does not define whether it includes the Fraser Valley). Fieldwork window overlaps the separate Pallas poll of Feb 12-14, 2026 (n=988).",
+  "groupes": {
+    "National": {
+      "n": 1148,
+      "libelle": "Total",
+      "parts": { "NDP": 41.6, "CON": 40.2, "GRN": 11.2, "ONEBC": 5.4, "AUTRES": 1.5 }
+    },
+    "METRO-VANCOUVER": {
+      "n": 482,
+      "libelle": "Metro Vancouver",
+      "parts": { "NDP": 44.5, "CON": 38.2, "GRN": 13.3, "ONEBC": 3.3, "AUTRES": 0.7 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": 156,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 46.9, "CON": 29.5, "GRN": 15.1, "ONEBC": 8.5, "AUTRES": 0 }
+    },
+    "INTERIOR-NORTH": {
+      "n": 510,
+      "libelle": "Rest of BC",
+      "parts": { "NDP": 35.1, "CON": 48.2, "GRN": 6.6, "ONEBC": 6.9, "AUTRES": 3.3 }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Léger",
+  "date_debut": "2026-09-24",
+  "date_fin": "2026-09-28",
+  "document": "BC Election 2026: Dissatisfaction Is High, But Voters Remain Unsettled (Leger, 2026-09-30)",
+  "reference": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/9.%20%C3%89tudes%20m%C3%A9diatiques%20septembre%202026/BC%20Politics/Media%20Release%20-%20BC%20Election%20Polling%20September%2029%2c%202026.pdf",
+  "note": "Online panel, n=1,003; decided voters weighted n=810, unweighted n=818 (13% undecided). Shares among decided voters from the 'Provincial Voting Intentions' table (p. 8). AUTRES = 'Another party / an independent candidate'. Regional bases not published. Region labels verbatim: Metro Van, Van Island, Rest of BC (coded INTERIOR-NORTH). Release page: https://leger360.com/in-the-news-bc-election-polling-september-2026/.",
+  "groupes": {
+    "National": {
+      "n": 818,
+      "libelle": "Total",
+      "parts": { "NDP": 36, "CON": 39, "GRN": 13, "ONEBC": 5, "CENTRE": 5, "AUTRES": 2 }
+    },
+    "METRO-VANCOUVER": {
+      "n": null,
+      "libelle": "Metro Van",
+      "parts": { "NDP": 39, "CON": 37, "GRN": 12, "ONEBC": 5, "CENTRE": 5, "AUTRES": 2 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": null,
+      "libelle": "Van Island",
+      "parts": { "NDP": 37, "CON": 37, "GRN": 16, "ONEBC": 3, "CENTRE": 3, "AUTRES": 4 }
+    },
+    "INTERIOR-NORTH": {
+      "n": null,
+      "libelle": "Rest of BC",
+      "parts": { "NDP": 31, "CON": 44, "GRN": 12, "ONEBC": 7, "CENTRE": 5, "AUTRES": 1 }
+    }
+  }
+}

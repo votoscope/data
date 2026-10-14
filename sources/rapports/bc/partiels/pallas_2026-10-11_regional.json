@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Pallas Data",
+  "date_debut": "2026-10-10",
+  "date_fin": "2026-10-11",
+  "document": "Pallas British Columbia Poll: Conservative 43, NDP 38, Green 11, OneBC 5, and Doerkson Leads Eby on Best Premier (Pallas Data, 2026-10-13)",
+  "reference": "https://pallas-data.ca/2026/10/13/pallas-british-columbia-poll-conservative-43-ndp-38-green-11-onebc-5-and-doerkson-leads-eby-on-best-premier/",
+  "note": "PARTIAL. IVR, n=513. Decided and leaning voters. No tables or PDF published; regional figures taken from the release text, which gives only CON and NDP for Metro Vancouver and Rest of BC, and four parties for Vancouver Island. Regional bases not published; National n = total sample. Region labels verbatim: Metro Vancouver, Vancouver Island, Rest of BC (coded INTERIOR-NORTH).",
+  "groupes": {
+    "National": {
+      "n": 513,
+      "libelle": "Total",
+      "parts": { "NDP": 38, "CON": 43, "GRN": 11, "ONEBC": 5, "CENTRE": 2, "AUTRES": 1 }
+    },
+    "METRO-VANCOUVER": {
+      "n": null,
+      "libelle": "Metro Vancouver",
+      "parts": { "NDP": 41, "CON": 41 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": null,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 33, "CON": 35, "GRN": 18, "ONEBC": 13 }
+    },
+    "INTERIOR-NORTH": {
+      "n": null,
+      "libelle": "Rest of BC",
+      "parts": { "NDP": 37, "CON": 51 }
+    }
+  }
+}

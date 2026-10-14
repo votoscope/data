@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Pallas Data",
+  "date_debut": "2026-02-12",
+  "date_fin": "2026-02-14",
+  "document": "Pallas British Columbia Poll: NDP 42%, Conservative 37%, Green 13%, OneBC 6%, and Elliott Most Preferred Among Conservative Voters (Pallas Data, 2026-02-19)",
+  "reference": "https://pallas-data.ca/2026/02/19/pallas-british-columbia-poll-ndp-42-conservative-37-green-13/",
+  "note": "PARTIAL. IVR, n=988. Decided and leaning voters. No tables published; regional figures from the release text, NDP and CON only. Regional bases not published; National n = total sample. OneBC: headline says 6%, body says 7% (body value kept). Region labels verbatim: Metro Vancouver, Vancouver Island, Rest of BC (coded INTERIOR-NORTH).",
+  "groupes": {
+    "National": {
+      "n": 988,
+      "libelle": "Total",
+      "parts": { "NDP": 42, "CON": 37, "GRN": 13, "ONEBC": 7 }
+    },
+    "METRO-VANCOUVER": {
+      "n": null,
+      "libelle": "Metro Vancouver",
+      "parts": { "NDP": 42, "CON": 33 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": null,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 49, "CON": 28 }
+    },
+    "INTERIOR-NORTH": {
+      "n": null,
+      "libelle": "Rest of BC",
+      "parts": { "NDP": 39, "CON": 46 }
+    }
+  }
+}

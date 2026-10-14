@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Léger",
+  "date_debut": "2025-01-24",
+  "date_fin": "2025-01-26",
+  "document": "Government of British Columbia Report Card: January 2025 (Leger, 2025-02-05)",
+  "reference": "https://leger360.com/wp-content/uploads/2025/02/Media-Report-BC-Government-Report-Card-February-5-2025.pdf",
+  "note": "Online panel, n=1,001; decided voters weighted n=855, unweighted n=861. Shares among decided voters from the 'Provincial voting intentions x region' chart (p. 8). Regional bases not published. Region labels verbatim: Metro Van, Van Island, Rest of BC (Rest of BC = everything outside Metro Vancouver and Vancouver Island, coded INTERIOR-NORTH). BC United not offered in this wave. National row from Leger's province-wide trend chart (October 2025 report, p. 17: 44/42/10/4), matching Wikipedia.",
+  "groupes": {
+    "National": {
+      "n": 861,
+      "libelle": "Total",
+      "parts": { "NDP": 44, "CON": 42, "GRN": 10, "AUTRES": 4 }
+    },
+    "METRO-VANCOUVER": {
+      "n": null,
+      "libelle": "Metro Van",
+      "parts": { "NDP": 46, "CON": 43, "GRN": 8, "AUTRES": 3 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": null,
+      "libelle": "Van Island",
+      "parts": { "NDP": 45, "CON": 36, "GRN": 16, "AUTRES": 4 }
+    },
+    "INTERIOR-NORTH": {
+      "n": null,
+      "libelle": "Rest of BC",
+      "parts": { "NDP": 40, "CON": 44, "GRN": 12, "AUTRES": 4 }
+    }
+  }
+}

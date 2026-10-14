@@ -1,0 +1,36 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Yorkville Strategies",
+  "date_debut": "2026-07-28",
+  "date_fin": "2026-08-03",
+  "document": "New Yorkville Strategies Survey, X thread by Dimitri Pantazopoulos (Yorkville Strategies, 2026-08-11)",
+  "reference": "https://x.com/DPinBC/status/2087237719131115702",
+  "note": "SHARES INCLUDE UNDECIDED. Online, n=1,016. Values read from the regional bar chart (tweet 2/5, all respondents); UNDECIDED = 'All Undecided'. The OneBC, CentreBC and Independent segments (each about 0-2%) are not legibly labelled on the chart and are not recorded, so rows sum to about 97-99. Decided-voter topline (tweet 1/5): NDP 46, CON 40. Regional bases not published; National n = total sample. Region labels verbatim: Metro Vancouver, Fraser Valley, Islands, Interior/North.",
+  "groupes": {
+    "National": {
+      "n": 1016,
+      "libelle": "Total",
+      "parts": { "NDP": 37, "CON": 32, "GRN": 9, "UNDECIDED": 20 }
+    },
+    "METRO-VANCOUVER": {
+      "n": null,
+      "libelle": "Metro Vancouver",
+      "parts": { "NDP": 38, "CON": 33, "GRN": 9, "UNDECIDED": 18 }
+    },
+    "FRASER-VALLEY": {
+      "n": null,
+      "libelle": "Fraser Valley",
+      "parts": { "NDP": 34, "CON": 38, "GRN": 8, "UNDECIDED": 17 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": null,
+      "libelle": "Islands",
+      "parts": { "NDP": 45, "CON": 15, "GRN": 12, "UNDECIDED": 25 }
+    },
+    "INTERIOR-NORTH": {
+      "n": null,
+      "libelle": "Interior/North",
+      "parts": { "NDP": 29, "CON": 43, "GRN": 8, "UNDECIDED": 19 }
+    }
+  }
+}

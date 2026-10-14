@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Ipsos",
+  "date_debut": "2020-10-19",
+  "date_fin": "2020-10-22",
+  "document": "NDP Headed to Majority Government (Global BC / CKNW, 2020-10-23)",
+  "reference": "https://www.ipsos.com/en-ca/news-polls/ndp-headed-to-majority-government",
+  "note": "Final Ipsos poll before the 2020 election. Mixed mode: n=1,502 (1,002 online Ipsos I-Say panel + 500 phone). Shares among decided voters from the detailed tables (Q2/3, 'Base: Decided voters'): https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/bc_final_election_poll_tables_oct_23.pdf. BCU = BC Liberal Party. AUTRES = 'Some other party'. n = unweighted decided-voter bases. Region labels verbatim: Metro Vancouver, Vancouver Island, Southern Interior/North.",
+  "groupes": {
+    "National": {
+      "n": 1253,
+      "libelle": "TOTAL",
+      "parts": { "NDP": 51, "BCU": 34, "GRN": 13, "AUTRES": 2 }
+    },
+    "METRO-VANCOUVER": {
+      "n": 682,
+      "libelle": "Metro Vancouver",
+      "parts": { "NDP": 54, "BCU": 33, "GRN": 12, "AUTRES": 1 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": 224,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 53, "BCU": 25, "GRN": 20, "AUTRES": 2 }
+    },
+    "INTERIOR-NORTH": {
+      "n": 347,
+      "libelle": "Southern Interior/North",
+      "parts": { "NDP": 45, "BCU": 42, "GRN": 10, "AUTRES": 3 }
+    }
+  }
+}

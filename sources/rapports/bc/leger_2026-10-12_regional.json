@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Léger",
+  "date_debut": "2026-10-09",
+  "date_fin": "2026-10-12",
+  "document": "BC Election 2026: A Close Race With Voters Still in Play (Leger, 2026-10-14)",
+  "reference": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/10.%20October%202026/Media%20Release%20-%20BC%20Election%20Polling%20October%2013%2c%202026.pdf",
+  "note": "Online panel, n=1,000; decided voters weighted n=816, unweighted n=832 (12% undecided). Shares among decided voters from the 'Provincial Voting Intentions' table (p. 7). AUTRES = 'Another party / an independent candidate'. Regional bases not published. Region labels verbatim: Metro Van, Van Island, Rest of BC (coded INTERIOR-NORTH). Release page: https://leger360.com/bc-election-2026-poll-october/. Published 2026-10-14; not yet in the Wikipedia table when extracted.",
+  "groupes": {
+    "National": {
+      "n": 832,
+      "libelle": "Total",
+      "parts": { "NDP": 40, "CON": 42, "GRN": 9, "ONEBC": 4, "CENTRE": 3, "AUTRES": 2 }
+    },
+    "METRO-VANCOUVER": {
+      "n": null,
+      "libelle": "Metro Van",
+      "parts": { "NDP": 42, "CON": 41, "GRN": 8, "ONEBC": 4, "CENTRE": 4, "AUTRES": 1 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": null,
+      "libelle": "Van Island",
+      "parts": { "NDP": 44, "CON": 39, "GRN": 8, "ONEBC": 2, "CENTRE": 1, "AUTRES": 5 }
+    },
+    "INTERIOR-NORTH": {
+      "n": null,
+      "libelle": "Rest of BC",
+      "parts": { "NDP": 33, "CON": 45, "GRN": 12, "ONEBC": 5, "CENTRE": 3, "AUTRES": 2 }
+    }
+  }
+}

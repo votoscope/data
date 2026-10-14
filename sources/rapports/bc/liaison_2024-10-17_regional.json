@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Liaison Strategies",
+  "date_debut": "2024-10-16",
+  "date_fin": "2024-10-17",
+  "document": "Conservatives Hold Slim Lead as BC votes (Liaison Strategies for NEPMCC, 2024-10-18); report LS-BC-2024---October.pdf, p. 5 'Voting Intent - Provincial'",
+  "reference": "https://press.liaisonstrategies.ca/conservatives-hold-slim-lead-as-bc-votes/",
+  "note": "Final pre-election poll. IVR, 803 voters, client National Ethnic Press and Media Council of Canada. Shares from the 'Decided & Leaning' table. Region labels verbatim. n = unweighted ALL-voter bases (decided bases not published). 'Other' -> AUTRES. Release text gives Vancouver Island Conservatives at 41%; the table gives 31% (table value recorded; 49+31+18+3 = 101).",
+  "groupes": {
+    "National": {
+      "n": 803,
+      "libelle": "All",
+      "parts": { "NDP": 43, "CON": 45, "GRN": 10, "AUTRES": 3 }
+    },
+    "METRO-VANCOUVER": {
+      "n": 322,
+      "libelle": "Vancouver CMA",
+      "parts": { "NDP": 45, "CON": 46, "GRN": 6, "AUTRES": 3 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": 203,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 49, "CON": 31, "GRN": 18, "AUTRES": 3 }
+    },
+    "INTERIOR-NORTH": {
+      "n": 278,
+      "libelle": "Remainder of BC",
+      "parts": { "NDP": 32, "CON": 51, "GRN": 13, "AUTRES": 4 }
+    }
+  }
+}

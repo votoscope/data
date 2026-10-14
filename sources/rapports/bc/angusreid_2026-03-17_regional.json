@@ -1,0 +1,36 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Angus Reid Institute",
+  "date_debut": "2026-03-11",
+  "date_fin": "2026-03-17",
+  "document": "B.C. Spotlight: Land rights saga boosts leaderless Conservatives as more now say DRIPA goes too far (Angus Reid Institute, 2026-04-01)",
+  "reference": "https://angusreid.org/bc-eby-musqueam-cowichan-property-rights-conservative-leadership/",
+  "note": "Online, Angus Reid Forum, n=499. Shares among decided and leaning voters from the tables (2026.04.01_BC_tables.pdf, QP5/QP6). n = unweighted decided-and-leaning bases. Region labels verbatim: 'LF/MV' (ARI's Lower Mainland outside Metro Vancouver, coded FRASER-VALLEY), 'Island/ North Coast' (coded VANCOUVER-ISLAND-NORTH-COAST), 'BC Int'. Figures recorded exactly as printed even though some columns sum above 100 (Total 102, BC Int 104).",
+  "groupes": {
+    "National": {
+      "n": 410,
+      "libelle": "Total",
+      "parts": { "NDP": 42, "CON": 44, "GRN": 9, "AUTRES": 7 }
+    },
+    "METRO-VANCOUVER": {
+      "n": 160,
+      "libelle": "Metro Van",
+      "parts": { "NDP": 45, "CON": 41, "GRN": 8, "AUTRES": 7 }
+    },
+    "FRASER-VALLEY": {
+      "n": 63,
+      "libelle": "LF/MV",
+      "parts": { "NDP": 37, "CON": 48, "GRN": 8, "AUTRES": 6 }
+    },
+    "VANCOUVER-ISLAND-NORTH-COAST": {
+      "n": 90,
+      "libelle": "Island/ North Coast",
+      "parts": { "NDP": 42, "CON": 41, "GRN": 13, "AUTRES": 3 }
+    },
+    "INTERIOR": {
+      "n": 94,
+      "libelle": "BC Int",
+      "parts": { "NDP": 38, "CON": 51, "GRN": 5, "AUTRES": 10 }
+    }
+  }
+}

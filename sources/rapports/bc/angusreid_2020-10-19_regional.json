@@ -1,0 +1,36 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Angus Reid Institute",
+  "date_debut": "2020-10-16",
+  "date_fin": "2020-10-19",
+  "document": "A Tale of Two Voters: Shifting dynamics tighten BC Election race in its final days (Angus Reid Institute, 2020-10-20)",
+  "reference": "http://angusreid.org/bc-election-2020/",
+  "note": "Final ARI poll before the 2020-10-24 election. Online, Angus Reid Forum, n=1,201. Shares among leaning/decided voters and those who had already voted, from the tables (2020.10.19_BC-ELXN-FINAL-PRTABLES.pdf, 'Q4/Q9/Q10. [Decided voters] Voted+ Vote/Vote Intention'). n = sample sizes printed in the table. BCU = BC Liberals; AUTRES = 'Another party' (mostly BC Conservatives). Region labels verbatim; 'Lower Mainland/ Fraser Valley' is ARI's Lower Mainland outside Metro Vancouver (coded FRASER-VALLEY); 'Island/North Coast' coded VANCOUVER-ISLAND-NORTH-COAST.",
+  "groupes": {
+    "National": {
+      "n": 1155,
+      "libelle": "Total",
+      "parts": { "NDP": 45, "BCU": 35, "GRN": 16, "AUTRES": 4 }
+    },
+    "METRO-VANCOUVER": {
+      "n": 399,
+      "libelle": "Metro Vancouver",
+      "parts": { "NDP": 54, "BCU": 31, "GRN": 13, "AUTRES": 2 }
+    },
+    "FRASER-VALLEY": {
+      "n": 298,
+      "libelle": "Lower Mainland/ Fraser Valley",
+      "parts": { "NDP": 43, "BCU": 38, "GRN": 14, "AUTRES": 5 }
+    },
+    "VANCOUVER-ISLAND-NORTH-COAST": {
+      "n": 230,
+      "libelle": "Island/North Coast",
+      "parts": { "NDP": 49, "BCU": 22, "GRN": 25, "AUTRES": 4 }
+    },
+    "INTERIOR": {
+      "n": 234,
+      "libelle": "Interior",
+      "parts": { "NDP": 30, "BCU": 48, "GRN": 15, "AUTRES": 8 }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Léger",
+  "date_debut": "2020-10-18",
+  "date_fin": "2020-10-21",
+  "document": "Decision 2020: Provincial politics in British Columbia, October 23, 2020 (Leger, 2020-10-23)",
+  "reference": "https://leger360.com/wp-content/uploads/2020/10/Leger-W3-DECISION-2020-Provincial-politics-British-Columbia-Oct-23-min.pdf",
+  "note": "Final Leger poll before the 2020-10-24 election (wave 3). Mixed web (CAWI) and telephone (CATI), n=1,100; decided voters (incl. leaners and those who had already voted) weighted n=979, unweighted n=961. Shares among decided voters from the detailed results table (p. 9). n = unweighted regional bases. Leger splits the Lower Mainland into two disjoint columns, 'Lower Mainland' and 'Vancouver' (weighted 309 and 222 of 979, so 'Vancouver' is a sub-area of Metro Vancouver, not the whole CMA); new codes LOWER-MAINLAND-EXCL-VANCOUVER and VANCOUVER are used. 'Rest of BC' coded INTERIOR-NORTH. BCU = BC Liberal Party; AUTRES = 'Someone else'.",
+  "groupes": {
+    "National": {
+      "n": 961,
+      "libelle": "TOTAL Decided voters",
+      "parts": { "NDP": 47, "BCU": 36, "GRN": 14, "AUTRES": 3 }
+    },
+    "LOWER-MAINLAND-EXCL-VANCOUVER": {
+      "n": 303,
+      "libelle": "Lower Mainland",
+      "parts": { "NDP": 48, "BCU": 40, "GRN": 10, "AUTRES": 1 }
+    },
+    "VANCOUVER": {
+      "n": 216,
+      "libelle": "Vancouver",
+      "parts": { "NDP": 53, "BCU": 29, "GRN": 16, "AUTRES": 2 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": 180,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 49, "BCU": 26, "GRN": 20, "AUTRES": 5 }
+    },
+    "INTERIOR-NORTH": {
+      "n": 262,
+      "libelle": "Rest of BC",
+      "parts": { "NDP": 38, "BCU": 45, "GRN": 13, "AUTRES": 4 }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Research Co.",
+  "date_debut": "2026-06-03",
+  "date_fin": "2026-06-05",
+  "document": "Surging Conservatives Tie New Democrats in British Columbia (Research Co., 2026-06-08); data tables Tables_Politics__BC_08Jun2026.pdf, p. 3",
+  "reference": "https://researchco.ca/2026/06/08/bcpoli-june2026/",
+  "note": "Online, 803 adults. Shares among decided voters from the 'Decided Voters' block of the data tables (standard question, not the BC Liberals scenario). Region labels verbatim. Regional sample sizes not published (National n = total sample). 'Another party / An independent candidate' -> AUTRES.",
+  "groupes": {
+    "National": {
+      "n": 803,
+      "libelle": "British Columbia",
+      "parts": { "CON": 42, "NDP": 42, "GRN": 9, "CENTRE": 3, "ONEBC": 2, "AUTRES": 2 }
+    },
+    "METRO-VANCOUVER": {
+      "n": null,
+      "libelle": "Metro Vancouver",
+      "parts": { "CON": 39, "NDP": 43, "GRN": 9, "CENTRE": 3, "ONEBC": 3, "AUTRES": 2 }
+    },
+    "FRASER-VALLEY": {
+      "n": null,
+      "libelle": "Fraser Valley",
+      "parts": { "CON": 56, "NDP": 36, "GRN": 4, "CENTRE": 3, "ONEBC": 1, "AUTRES": 1 }
+    },
+    "INTERIOR": {
+      "n": null,
+      "libelle": "Southern BC",
+      "parts": { "CON": 41, "NDP": 50, "GRN": 4, "CENTRE": 3, "ONEBC": 2, "AUTRES": 1 }
+    },
+    "NORTH": {
+      "n": null,
+      "libelle": "Northern BC",
+      "parts": { "CON": 57, "NDP": 23, "GRN": 16, "CENTRE": 4, "ONEBC": 0, "AUTRES": 1 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": null,
+      "libelle": "Vancouver Island",
+      "parts": { "CON": 39, "NDP": 42, "GRN": 11, "CENTRE": 1, "ONEBC": 2, "AUTRES": 4 }
+    }
+  }
+}

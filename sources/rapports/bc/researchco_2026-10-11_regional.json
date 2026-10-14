@@ -1,0 +1,41 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Research Co.",
+  "date_debut": "2026-10-09",
+  "date_fin": "2026-10-11",
+  "document": "Conservatives Leap Ahead of NDP in British Columbia Campaign (Research Co., 2026-10-13); data tables Tables_Politics_BC_13Oct2026.pdf, p. 3",
+  "reference": "https://researchco.ca/2026/10/13/bcpoli-oct13/",
+  "note": "Online, 808 likely voters (687 decided). Shares among decided likely voters from the 'Decided Voters' block of the data tables. Region labels verbatim. n = unweighted ALL-respondent bases from the tables' Sample Specifications (decided bases by region not published). 'Another party / An independent candidate' -> AUTRES. Release text spells 'Fraser Valey'.",
+  "groupes": {
+    "National": {
+      "n": 808,
+      "libelle": "British Columbia",
+      "parts": { "CON": 44, "NDP": 42, "GRN": 8, "CENTRE": 2, "ONEBC": 2, "AUTRES": 1 }
+    },
+    "METRO-VANCOUVER": {
+      "n": 440,
+      "libelle": "Metro Vancouver",
+      "parts": { "CON": 45, "NDP": 43, "GRN": 7, "CENTRE": 2, "ONEBC": 2, "AUTRES": 1 }
+    },
+    "FRASER-VALLEY": {
+      "n": 86,
+      "libelle": "Fraser Valley",
+      "parts": { "CON": 49, "NDP": 43, "GRN": 3, "CENTRE": 4, "ONEBC": 1, "AUTRES": 1 }
+    },
+    "INTERIOR": {
+      "n": 119,
+      "libelle": "Southern BC",
+      "parts": { "CON": 44, "NDP": 40, "GRN": 10, "CENTRE": 0, "ONEBC": 2, "AUTRES": 3 }
+    },
+    "NORTH": {
+      "n": 44,
+      "libelle": "Northern BC",
+      "parts": { "CON": 55, "NDP": 39, "GRN": 6, "CENTRE": 0, "ONEBC": 0, "AUTRES": 0 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": 119,
+      "libelle": "Vancouver Island",
+      "parts": { "CON": 34, "NDP": 52, "GRN": 10, "CENTRE": 1, "ONEBC": 2, "AUTRES": 1 }
+    }
+  }
+}

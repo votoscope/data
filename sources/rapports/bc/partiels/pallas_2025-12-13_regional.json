@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Pallas Data",
+  "date_debut": "2025-12-11",
+  "date_fin": "2025-12-13",
+  "document": "Pallas British Columbia Poll: NDP 44%, Conservative 39%, Greens 9%, OneBC 7% (Pallas Data, 2025-12-22)",
+  "reference": "https://pallas-data.ca/2025/12/22/pallas-british-columbia-poll-ndp-44-conservative-39-greens-9-onebc-7/",
+  "note": "PARTIAL. IVR, n=923. Release text says 'among decided voters' (Pallas usually reports decided and leaning). No tables published; regional figures from the release text, NDP and CON only. Regional bases not published; National n = total sample. Region labels verbatim: Metro Vancouver, Vancouver Island, Rest of BC (coded INTERIOR-NORTH).",
+  "groupes": {
+    "National": {
+      "n": 923,
+      "libelle": "Total",
+      "parts": { "NDP": 44, "CON": 39, "GRN": 9, "ONEBC": 7 }
+    },
+    "METRO-VANCOUVER": {
+      "n": null,
+      "libelle": "Metro Vancouver",
+      "parts": { "NDP": 49, "CON": 32 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": null,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 43, "CON": 27 }
+    },
+    "INTERIOR-NORTH": {
+      "n": null,
+      "libelle": "Rest of BC",
+      "parts": { "NDP": 36, "CON": 48 }
+    }
+  }
+}

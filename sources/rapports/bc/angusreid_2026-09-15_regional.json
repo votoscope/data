@@ -1,0 +1,36 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Angus Reid Institute",
+  "date_debut": "2026-09-08",
+  "date_fin": "2026-09-15",
+  "document": "BC's Political Orphans: Unhappy with NDP, wary of alternatives, half say they have no party to gladly support (Angus Reid Institute, 2026-09-17)",
+  "reference": "https://angusreid.org/election-speculation-bcndp-conservative-eby-klf/",
+  "note": "Online, Angus Reid Forum, n=749; decided and leaning voters n=640. Shares among decided and leaning voters from the tables (2026.09.15_BC_solo.pdf, QP5/QP6) and the release chart (p. 10), which agree. Regional decided bases not published (n null); unweighted full-sample regional bases: Metro Van 389, Fraser Valley/Lower Main 46, Island/North Coast 160, BC Int 154. Region labels verbatim; 'Fraser Valley/ Lower Mainland' is ARI's Lower Mainland outside Metro Vancouver (coded FRASER-VALLEY).",
+  "groupes": {
+    "National": {
+      "n": 640,
+      "libelle": "Total",
+      "parts": { "NDP": 41, "CON": 37, "GRN": 13, "AUTRES": 9 }
+    },
+    "METRO-VANCOUVER": {
+      "n": null,
+      "libelle": "Metro Van",
+      "parts": { "NDP": 43, "CON": 34, "GRN": 14, "AUTRES": 9 }
+    },
+    "FRASER-VALLEY": {
+      "n": null,
+      "libelle": "Fraser Valley/ Lower Mainland",
+      "parts": { "NDP": 43, "CON": 41, "GRN": 5, "AUTRES": 10 }
+    },
+    "VANCOUVER-ISLAND-NORTH-COAST": {
+      "n": null,
+      "libelle": "Island/ North Coast",
+      "parts": { "NDP": 44, "CON": 29, "GRN": 20, "AUTRES": 6 }
+    },
+    "INTERIOR": {
+      "n": null,
+      "libelle": "Interior",
+      "parts": { "NDP": 33, "CON": 48, "GRN": 8, "AUTRES": 11 }
+    }
+  }
+}

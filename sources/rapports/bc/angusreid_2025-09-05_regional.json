@@ -1,0 +1,36 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Angus Reid Institute",
+  "date_debut": "2025-08-28",
+  "date_fin": "2025-09-05",
+  "document": "Cross-Canada Outlook: Provincial Issues, Politics, and Government Performance: British Columbia (Angus Reid Institute, 2025-09-11)",
+  "reference": "https://angusreid.org/cross-canada-outlook-sept-25-british-columbia/",
+  "note": "Online, Angus Reid Forum, national n=4,330 (BC subsample). Shares among leaning and decided voters from the release PDF chart 'Vote intention: B.C.' (2025.09.11_Canada_Outlook_BC.pdf, p. 6); n = bases printed on the chart. The 'Other party' segment for Island/ North Coast is not labelled (residual about 1 point), so AUTRES is omitted there. Region labels verbatim; 'Fraser Valley' is ARI's Lower Mainland outside Metro Vancouver; 'Island/ North Coast' coded VANCOUVER-ISLAND-NORTH-COAST.",
+  "groupes": {
+    "National": {
+      "n": 695,
+      "libelle": "Leaning and decided voters",
+      "parts": { "NDP": 42, "CON": 44, "GRN": 10, "AUTRES": 4 }
+    },
+    "METRO-VANCOUVER": {
+      "n": 251,
+      "libelle": "Metro Van",
+      "parts": { "NDP": 46, "CON": 43, "GRN": 8, "AUTRES": 3 }
+    },
+    "FRASER-VALLEY": {
+      "n": 148,
+      "libelle": "Fraser Valley",
+      "parts": { "NDP": 33, "CON": 52, "GRN": 10, "AUTRES": 5 }
+    },
+    "VANCOUVER-ISLAND-NORTH-COAST": {
+      "n": 144,
+      "libelle": "Island/ North Coast",
+      "parts": { "NDP": 48, "CON": 37, "GRN": 14 }
+    },
+    "INTERIOR": {
+      "n": 147,
+      "libelle": "Interior",
+      "parts": { "NDP": 35, "CON": 50, "GRN": 9, "AUTRES": 6 }
+    }
+  }
+}

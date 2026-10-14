@@ -1,0 +1,36 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Angus Reid Institute",
+  "date_debut": "2026-10-01",
+  "date_fin": "2026-10-03",
+  "document": "BC Election: As voters begin to lock in, Conservatives hold five-point lead over gaining NDP (Angus Reid Institute, 2026-10-05)",
+  "reference": "https://angusreid.org/bc-election-as-voters-begin-to-lock-in-conservatives-hold-five-point-lead-over-gaining-ndp/",
+  "note": "Online, Angus Reid Forum, n=1,013. Shares among decided and leaning voters from the release PDF chart 'B.C. provincial vote intent by region' (2026.10.05_BC_Elxn_2.pdf, p. 4); the published tables do not include the vote question. n = decided-and-leaning bases printed on the chart. The 'Other party' segment is not labelled for the regions (residual about 1-2 points), so AUTRES is omitted for regions; national Other 2% from the trend chart (p. 3). Region labels verbatim; 'Fraser Valley' is ARI's Lower Mainland outside Metro Vancouver; 'Island/ North Coast' combines Vancouver Island and the North Coast (new code VANCOUVER-ISLAND-NORTH-COAST).",
+  "groupes": {
+    "National": {
+      "n": 846,
+      "libelle": "Total",
+      "parts": { "NDP": 43, "CON": 48, "GRN": 7, "AUTRES": 2 }
+    },
+    "METRO-VANCOUVER": {
+      "n": 385,
+      "libelle": "Metro Van",
+      "parts": { "NDP": 48, "CON": 44, "GRN": 6 }
+    },
+    "FRASER-VALLEY": {
+      "n": 128,
+      "libelle": "Fraser Valley",
+      "parts": { "NDP": 28, "CON": 62, "GRN": 8 }
+    },
+    "VANCOUVER-ISLAND-NORTH-COAST": {
+      "n": 176,
+      "libelle": "Island/ North Coast",
+      "parts": { "NDP": 48, "CON": 39, "GRN": 12 }
+    },
+    "INTERIOR": {
+      "n": 160,
+      "libelle": "Interior",
+      "parts": { "NDP": 36, "CON": 57, "GRN": 5 }
+    }
+  }
+}

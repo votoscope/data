@@ -1,0 +1,36 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Fairview Strategy",
+  "date_debut": "2024-10-04",
+  "date_fin": "2024-10-06",
+  "document": "BC Political Outlook: October 2024 (Fairview Strategy, 2024-10-07)",
+  "reference": "https://img1.wsimg.com/blobby/go/300789d8-cebb-4c14-aeed-9c538789c751/downloads/16ed20bb-eab0-44f5-afbf-a94e3ecf8e0e/OMNI-Oct24.pdf?ver=1728341492093",
+  "note": "Final Fairview poll before the 2024 election. SHARES INCLUDE UNDECIDED. Online panel, n=806. 'Provincial Vote ... BY Region' chart (all respondents); UNDECIDED = 'Undecided'; a further ~4% 'would not vote' is in the base but not shown, so rows sum to about 94-99. AUTRES = 'Other'; the City of Vancouver 'Other' segment is unlabelled and omitted. n = regional bases printed on the chart. Region labels verbatim: City of Vancouver (new code VANCOUVER-CITY), Rest of Metro Vancouver (new code METRO-VANCOUVER-REST), Vancouver Island, Rest of BC (coded INTERIOR-NORTH).",
+  "groupes": {
+    "National": {
+      "n": 806,
+      "libelle": "Overall",
+      "parts": { "NDP": 37, "CON": 32, "GRN": 8, "AUTRES": 1, "UNDECIDED": 16 }
+    },
+    "VANCOUVER-CITY": {
+      "n": 136,
+      "libelle": "City of Vancouver",
+      "parts": { "NDP": 42, "CON": 29, "GRN": 10, "UNDECIDED": 18 }
+    },
+    "METRO-VANCOUVER-REST": {
+      "n": 298,
+      "libelle": "Rest of Metro Vancouver",
+      "parts": { "NDP": 37, "CON": 34, "GRN": 7, "AUTRES": 1, "UNDECIDED": 17 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": 148,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 47, "CON": 22, "GRN": 9, "AUTRES": 2, "UNDECIDED": 16 }
+    },
+    "INTERIOR-NORTH": {
+      "n": 224,
+      "libelle": "Rest of BC",
+      "parts": { "NDP": 30, "CON": 39, "GRN": 9, "AUTRES": 2, "UNDECIDED": 16 }
+    }
+  }
+}

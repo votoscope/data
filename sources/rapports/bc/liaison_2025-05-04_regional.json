@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Liaison Strategies",
+  "date_debut": "2025-05-02",
+  "date_fin": "2025-05-04",
+  "document": "BC: Conservatives Lead NDP, 47% to 45% (Liaison Strategies for NEPMCC, 2025-05-07); report LS-BC-2025---May-2.pdf, p. 8 'Voting Intent - Provincial'",
+  "reference": "https://press.liaisonstrategies.ca/bc-conservatives-lead-ndp-47-to-45/",
+  "note": "IVR, 800 voters, client National Ethnic Press and Media Council of Canada. Shares from the 'Decided & Leaning' table. Region labels verbatim. n = unweighted ALL-voter bases (decided bases not published). 'Other' -> AUTRES.",
+  "groupes": {
+    "National": {
+      "n": 800,
+      "libelle": "All",
+      "parts": { "NDP": 45, "CON": 47, "GRN": 7, "AUTRES": 2 }
+    },
+    "METRO-VANCOUVER": {
+      "n": 455,
+      "libelle": "Vancouver CMA",
+      "parts": { "NDP": 49, "CON": 46, "GRN": 3, "AUTRES": 1 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": 157,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 44, "CON": 34, "GRN": 19, "AUTRES": 2 }
+    },
+    "INTERIOR-NORTH": {
+      "n": 188,
+      "libelle": "Remainder of BC",
+      "parts": { "NDP": 34, "CON": 56, "GRN": 6, "AUTRES": 4 }
+    }
+  }
+}

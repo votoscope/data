@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Léger",
+  "date_debut": "2026-06-01",
+  "date_fin": "2026-06-02",
+  "document": "British Columbia Pulse Check, June 2026 (Leger, 2026-06-05)",
+  "reference": "https://documents.leger360.com/hubfs/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/%C3%89tudes%20Juin%202026/Leger%20Poll%20-%20BC%20Pulse%20Check%20June%202026.pdf",
+  "note": "Online panel, n=1,002; decided voters weighted n=806, unweighted n=794. Shares among decided voters from the 'Provincial Voting Intentions' table (p. 7). OneBC not listed separately in this wave; AUTRES = 'Another party / an independent candidate'. Regional bases not published. Region labels verbatim: Metro Van, Van Isle, Rest of BC (coded INTERIOR-NORTH).",
+  "groupes": {
+    "National": {
+      "n": 794,
+      "libelle": "Total",
+      "parts": { "NDP": 41, "CON": 45, "GRN": 8, "AUTRES": 6 }
+    },
+    "METRO-VANCOUVER": {
+      "n": null,
+      "libelle": "Metro Van",
+      "parts": { "NDP": 43, "CON": 44, "GRN": 6, "AUTRES": 6 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": null,
+      "libelle": "Van Isle",
+      "parts": { "NDP": 35, "CON": 40, "GRN": 18, "AUTRES": 7 }
+    },
+    "INTERIOR-NORTH": {
+      "n": null,
+      "libelle": "Rest of BC",
+      "parts": { "NDP": 41, "CON": 48, "GRN": 6, "AUTRES": 5 }
+    }
+  }
+}

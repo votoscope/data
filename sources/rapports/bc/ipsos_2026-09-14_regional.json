@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Ipsos",
+  "date_debut": "2026-09-08",
+  "date_fin": "2026-09-14",
+  "document": "BC Conservative Support Scatters Under Kerry-Lynne Findlay (Ipsos, 2026-09-15)",
+  "reference": "https://www.ipsos.com/en-ca/bc-conservative-support-scatters-under-kerry-lynne-findlay",
+  "note": "Online Ipsos panel, n=800. Shares among decided voters from the detailed tables (P2 'Decided Voters'): https://www.ipsos.com/sites/default/files/ct/news/documents/2026-09/Tables%20for%20Release%20Sept%2015_0.pdf. n = unweighted decided-voter bases. AUTRES = 'Some other party or candidate'. Region labels verbatim: Metro Vancouver, Vancouver Island, Interior/North (release text: 'Southern Interior/North').",
+  "groupes": {
+    "National": {
+      "n": 567,
+      "libelle": "Total",
+      "parts": { "NDP": 45, "CON": 35, "GRN": 10, "ONEBC": 2, "CENTRE": 4, "AUTRES": 4 }
+    },
+    "METRO-VANCOUVER": {
+      "n": 305,
+      "libelle": "Metro Vancouver",
+      "parts": { "NDP": 47, "CON": 34, "GRN": 10, "ONEBC": 2, "CENTRE": 3, "AUTRES": 3 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": 99,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 44, "CON": 30, "GRN": 11, "ONEBC": 1, "CENTRE": 6, "AUTRES": 8 }
+    },
+    "INTERIOR-NORTH": {
+      "n": 162,
+      "libelle": "Interior/North",
+      "parts": { "NDP": 41, "CON": 41, "GRN": 10, "ONEBC": 1, "CENTRE": 4, "AUTRES": 3 }
+    }
+  }
+}

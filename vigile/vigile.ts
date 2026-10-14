@@ -27,6 +27,7 @@ import {
 } from "../lib/commun.ts";
 import { lirePageQc, PAGES_QC } from "../sources/wikipedia_qc.ts";
 import { lirePageFederale, PAGES_FEDERALES } from "../sources/wikipedia_federal.ts";
+import { lirePageBc, PAGES_BC } from "../sources/wikipedia_bc.ts";
 
 const F_SONDAGES = new URL("csv/sondages.csv", RACINE), F_PARTS = new URL("csv/parts.csv", RACINE);
 const F_ETAT = new URL("etat/sources.json", RACINE);
@@ -72,7 +73,7 @@ class SourceWikipedia implements Source {
   }
 }
 
-const FIRMES_RAPPORTS: Record<string, string> = { "Segma / Radio-Canada": "Segma Recherche" };
+const FIRMES_RAPPORTS: Record<string, string> = { "Segma / Radio-Canada": "Segma Recherche", "Angus Reid Institute": "Angus Reid" };
 const empreinte = (u: URL): string => createHash("sha1").update(Deno.readFileSync(u)).digest("hex");
 
 class SourceRapports implements Source {
@@ -197,6 +198,7 @@ if (import.meta.main) {
   await new VigileSondages([
     new SourceWikipedia("Wikipédia (Québec)", "fr", PAGES_QC, lirePageQc),
     new SourceWikipedia("Wikipédia (fédéral)", "en", PAGES_FEDERALES, lirePageFederale),
+    new SourceWikipedia("Wikipédia (Colombie-Britannique)", "en", PAGES_BC, lirePageBc),
     new SourceRapports(),
   ]).executer({ force: a.has("--force"), essai: a.has("--essai"), outrepasser: a.has("--outrepasser") });
 }

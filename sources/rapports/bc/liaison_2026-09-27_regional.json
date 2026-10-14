@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Liaison Strategies",
+  "date_debut": "2026-09-26",
+  "date_fin": "2026-09-27",
+  "document": "B.C.: Conservatives 40%, NDP 39% as Housing Mandates Collide (Liaison Strategies, 2026-09-29); tables 2026.09.29-BC-Tables.pdf, 'Provincial Voting Intention (Decided and Leaning)'",
+  "reference": "https://press.liaisonstrategies.ca/bc-conservatives-40-ndp-39-housing-frustration-runs-deep/",
+  "note": "IVR, 1,000 adults. Shares among decided and leaning voters. Region labels verbatim; 'Rest of BC' = outside Metro Vancouver and Vancouver Island. n = unweighted decided-and-leaning bases. 'Other' -> AUTRES. Release text gives no regional figures.",
+  "groupes": {
+    "National": {
+      "n": 850,
+      "libelle": "Total",
+      "parts": { "NDP": 39, "CON": 40, "GRN": 11, "CENTRE": 4, "ONEBC": 3, "AUTRES": 3 }
+    },
+    "METRO-VANCOUVER": {
+      "n": 413,
+      "libelle": "Metro Vancouver",
+      "parts": { "NDP": 40, "CON": 37, "GRN": 13, "CENTRE": 5, "ONEBC": 3, "AUTRES": 2 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": 178,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 47, "CON": 28, "GRN": 15, "CENTRE": 3, "ONEBC": 4, "AUTRES": 3 }
+    },
+    "INTERIOR-NORTH": {
+      "n": 259,
+      "libelle": "Rest of BC",
+      "parts": { "NDP": 32, "CON": 51, "GRN": 5, "CENTRE": 5, "ONEBC": 4, "AUTRES": 4 }
+    }
+  }
+}

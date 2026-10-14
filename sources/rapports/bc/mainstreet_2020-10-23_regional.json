@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Mainstreet Research",
+  "date_debut": "2020-10-22",
+  "date_fin": "2020-10-23",
+  "document": "BC NDP On Course For Majority in 2020: NDP 51%, Liberals 31%, Greens 16% (Mainstreet Research, 2020-10-23); report 'British Columbia Provincial Vote Intentions, 23rd October 2020' (Scribd embed), p. 5 breakout table '(Decided And Leaning Voters)'",
+  "reference": "https://www.mainstreetresearch.ca/poll/bc-ndp-on-course-for-majority-in-2020-ndp-51-liberals-31-greens-16/",
+  "note": "Final pre-election poll. IVR, 704 adults (664 decided and leaning). Original page now 404; read via Wayback Machine snapshot 20201027190604 and the embedded Scribd report (document 481353299). Shares among decided and leaning voters. Region labels verbatim. n = unweighted decided-and-leaning bases. BCU = BC Liberals. 'Another Party' -> AUTRES (the questionnaire offered the BC Conservatives, who are not shown separately in the breakout).",
+  "groupes": {
+    "National": {
+      "n": 664,
+      "libelle": "All",
+      "parts": { "NDP": 50.5, "BCU": 30.6, "GRN": 15.9, "AUTRES": 3 }
+    },
+    "METRO-VANCOUVER": {
+      "n": 357,
+      "libelle": "Vancouver CMA",
+      "parts": { "NDP": 52.1, "BCU": 32.2, "GRN": 13.5, "AUTRES": 2.2 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": 128,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 46.4, "BCU": 18.4, "GRN": 31.9, "AUTRES": 3.4 }
+    },
+    "INTERIOR-NORTH": {
+      "n": 179,
+      "libelle": "Elsewhere in BC",
+      "parts": { "NDP": 50.1, "BCU": 35, "GRN": 10.6, "AUTRES": 4.3 }
+    }
+  }
+}

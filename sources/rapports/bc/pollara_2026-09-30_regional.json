@@ -1,0 +1,41 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Pollara",
+  "date_debut": "2026-09-23",
+  "date_fin": "2026-09-30",
+  "document": "Even Flow (The Pollara Substack, Pollara Strategic Insights, 2026-10-05)",
+  "reference": "https://pollarastrategicinsights.substack.com/p/even-flow",
+  "note": "n=3,017 (2,509 online + 508 IVR). Shares among decided voters from the attached syndicate tables PDF ('QX2A-QX2B - [All respondents Decided vote]'): https://pollarastrategicinsights.substack.com/api/v1/file/a7556639-645c-4f7e-a737-531e01a81bf8.pdf. n = unweighted decided bases. AUTRES = 'Some other party'; the North cell for 'Some other party' is blank in the table and is omitted. The same PDF also has a 'likely voters' table (not used). Region labels verbatim ('Syndicate regions'): Metro Vancouver, Fraser Valley, Vancouver Island, Interior, North.",
+  "groupes": {
+    "National": {
+      "n": 2579,
+      "libelle": "TOTAL",
+      "parts": { "NDP": 38, "CON": 38, "GRN": 13, "ONEBC": 5, "CENTRE": 4, "AUTRES": 2 }
+    },
+    "METRO-VANCOUVER": {
+      "n": 1325,
+      "libelle": "Metro Vancouver",
+      "parts": { "NDP": 40, "CON": 39, "GRN": 11, "ONEBC": 4, "CENTRE": 4, "AUTRES": 2 }
+    },
+    "FRASER-VALLEY": {
+      "n": 170,
+      "libelle": "Fraser Valley",
+      "parts": { "NDP": 31, "CON": 36, "GRN": 15, "ONEBC": 10, "CENTRE": 5, "AUTRES": 2 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": 538,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 40, "CON": 32, "GRN": 17, "ONEBC": 3, "CENTRE": 4, "AUTRES": 4 }
+    },
+    "INTERIOR": {
+      "n": 425,
+      "libelle": "Interior",
+      "parts": { "NDP": 35, "CON": 38, "GRN": 14, "ONEBC": 9, "CENTRE": 4, "AUTRES": 1 }
+    },
+    "NORTH": {
+      "n": 121,
+      "libelle": "North",
+      "parts": { "NDP": 27, "CON": 49, "GRN": 16, "ONEBC": 6, "CENTRE": 2 }
+    }
+  }
+}

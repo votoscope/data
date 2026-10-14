@@ -1,0 +1,36 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Angus Reid Institute",
+  "date_debut": "2026-06-01",
+  "date_fin": "2026-06-12",
+  "document": "B.C. Politics: New Conservative leader largely unknown, but her party leads in vote intention (Angus Reid Institute, 2026-06-16)",
+  "reference": "https://angusreid.org/bc-politics-new-conservative-leader/",
+  "note": "Online, Angus Reid Forum, n=755. Shares among BC decided and leaning voters from the tables (2026.06.15_BC_release_tables.pdf, QP5/QP6). Decided bases not published (n null); unweighted full-sample regional bases: Metro Van 289, Lower Main/Fraser Valley 187, Island/North Coast 135, Interior 139. Region labels verbatim; 'Lower Main/ Fraser Valley' is ARI's Lower Mainland outside Metro Vancouver (coded FRASER-VALLEY).",
+  "groupes": {
+    "National": {
+      "n": null,
+      "libelle": "Total",
+      "parts": { "NDP": 36, "CON": 47, "GRN": 11, "AUTRES": 6 }
+    },
+    "METRO-VANCOUVER": {
+      "n": null,
+      "libelle": "Metro Van",
+      "parts": { "NDP": 41, "CON": 46, "GRN": 7, "AUTRES": 5 }
+    },
+    "FRASER-VALLEY": {
+      "n": null,
+      "libelle": "Lower Main/ Fraser Valley",
+      "parts": { "NDP": 40, "CON": 48, "GRN": 3, "AUTRES": 8 }
+    },
+    "VANCOUVER-ISLAND-NORTH-COAST": {
+      "n": null,
+      "libelle": "Island/ North Coast",
+      "parts": { "NDP": 29, "CON": 43, "GRN": 24, "AUTRES": 4 }
+    },
+    "INTERIOR": {
+      "n": null,
+      "libelle": "Interior",
+      "parts": { "NDP": 30, "CON": 53, "GRN": 11, "AUTRES": 7 }
+    }
+  }
+}

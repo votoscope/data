@@ -14,6 +14,18 @@ Contient des informations visées par la Licence du gouvernement ouvert – Cana
 
 Données : résultats officiels des élections générales (tableau 12, résultats par bureau de scrutin), transposition des résultats de la 44e élection générale sur le décret de représentation de 2023, limites des circonscriptions.
 
+## Elections BC
+
+Contains information licenced under the Elections BC Open Data Licence (https://elections.bc.ca/docs/EBC-Open-Data-Licence.pdf).
+
+Données : résultats officiels des élections générales de 2017, 2020 et 2024 par section de vote et par lieu de vote, électeurs inscrits par section de vote, table de conversion des sections de vote de 2017 vers celles de 2024, polygones des sections de vote et limites des circonscriptions (DataBC, https://catalogue.data.gov.bc.ca/), liste officielle des candidatures de 2026 (circonscription, nom et parti seulement).
+
+## Gouvernement de la Colombie-Britannique
+
+Contains information licensed under the Open Government Licence – British Columbia (https://www2.gov.bc.ca/gov/content/data/open-data/open-government-licence-bc).
+
+Données : limites des districts régionaux (DataBC, ABMS_REGIONAL_DISTRICTS_SP), utilisées pour rattacher chaque circonscription à son district régional.
+
 ## Statistique Canada
 
 Adapté de Statistique Canada, Profil du recensement, Recensement de la population de 2021 (98-401-X2021010 : circonscriptions fédérales, ordonnance de représentation de 2013 ; 98-401-X2021029 : ordonnance de représentation de 2023 ; aires de diffusion). Ceci ne constitue pas une approbation de ce produit par Statistique Canada. Licence ouverte de Statistique Canada (https://www.statcan.gc.ca/fr/reference/licence).

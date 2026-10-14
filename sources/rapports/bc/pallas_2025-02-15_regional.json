@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Pallas Data",
+  "date_debut": "2025-02-15",
+  "date_fin": "2025-02-15",
+  "document": "British Columbia Provincial Voting Intentions (Pallas Data, 2025-02-18)",
+  "reference": "https://files.constantcontact.com/f737aa99901/1dd1cfd4-cd65-4515-aec0-27599a26da58.pdf",
+  "note": "IVR, n=677 (decided and leaning n=648). Shares from the 'Decided and Leaning Voters' table. n = unweighted decided-and-leaning bases. AUTRES = 'Another Party'. Region labels verbatim: Metro Vancouver, Vancouver Island, Rest of BC (coded INTERIOR-NORTH).",
+  "groupes": {
+    "National": {
+      "n": 648,
+      "libelle": "Total",
+      "parts": { "NDP": 48.8, "CON": 40.7, "GRN": 7.6, "AUTRES": 2.9 }
+    },
+    "METRO-VANCOUVER": {
+      "n": 217,
+      "libelle": "Metro Vancouver",
+      "parts": { "NDP": 56.2, "CON": 34.3, "GRN": 5.8, "AUTRES": 3.7 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": 83,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 45.3, "CON": 39.9, "GRN": 12.4, "AUTRES": 2.3 }
+    },
+    "INTERIOR-NORTH": {
+      "n": 348,
+      "libelle": "Rest of BC",
+      "parts": { "NDP": 40.6, "CON": 49.4, "GRN": 8.0, "AUTRES": 2.0 }
+    }
+  }
+}

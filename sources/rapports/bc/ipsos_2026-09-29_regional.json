@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Ipsos",
+  "date_debut": "2026-09-25",
+  "date_fin": "2026-09-29",
+  "document": "BC Conservative Support Rallies Without Kerry-Lynne Findlay (Global BC, 2026-10-01)",
+  "reference": "https://www.ipsos.com/en-ca/bc-conservative-support-rallies-without-kerry-lynne-findlay",
+  "note": "Online Ipsos panel, n=1,001. Shares among decided voters from the detailed tables (Q2 'Rebased out of DECIDED VOTERS'): https://www.ipsos.com/sites/default/files/ct/news/documents/2026-10/BC%20Poll%201%20Tables.pdf. n = unweighted decided-voter bases. AUTRES = 'Some other party or candidate'. Region labels verbatim: Metro Vancouver, Vancouver Island, North/Interior.",
+  "groupes": {
+    "National": {
+      "n": 733,
+      "libelle": "Total",
+      "parts": { "NDP": 40, "CON": 42, "GRN": 10, "ONEBC": 3, "CENTRE": 3, "AUTRES": 2 }
+    },
+    "METRO-VANCOUVER": {
+      "n": 425,
+      "libelle": "Metro Vancouver",
+      "parts": { "NDP": 43, "CON": 41, "GRN": 10, "ONEBC": 3, "CENTRE": 2, "AUTRES": 2 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": 117,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 48, "CON": 30, "GRN": 9, "ONEBC": 2, "CENTRE": 5, "AUTRES": 6 }
+    },
+    "INTERIOR-NORTH": {
+      "n": 189,
+      "libelle": "North/Interior",
+      "parts": { "NDP": 31, "CON": 49, "GRN": 13, "ONEBC": 3, "CENTRE": 3, "AUTRES": 1 }
+    }
+  }
+}

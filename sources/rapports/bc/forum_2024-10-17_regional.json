@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Forum Research",
+  "date_debut": "2024-10-15",
+  "date_fin": "2024-10-17",
+  "document": "Conservatives, NDP neck and neck on eve of BC election (Forum Research, 2024-10-18)",
+  "reference": "https://poll.forumresearch.com/post/3174/conservatives-ndp-neck-and-neck-on-eve-of-bc-election/",
+  "note": "Final Forum poll before the 2024 election. IVR, n=2,083 (decided/leaning unweighted n=1,985). Shares among decided and leaning voters from the 'Region' table of the release PDF (poll.forumresearch.com/data/91565d5a-6973-4e6f-b690-d8ccdc392562Conservatives, NDP neck and neck on eve of BC election Oct 18 2024.pdf; retrieved via web.archive.org, site returned 503). n = unweighted decided/leaning bases. AUTRES = 'Other'. Region labels verbatim: Vancouver Lower Mainland, Vancouver Island, Interior North.",
+  "groupes": {
+    "National": {
+      "n": 1985,
+      "libelle": "TOTAL",
+      "parts": { "NDP": 42.7, "CON": 43.4, "GRN": 10.8, "AUTRES": 3.1 }
+    },
+    "LOWER-MAINLAND": {
+      "n": 1043,
+      "libelle": "Vancouver Lower Mainland",
+      "parts": { "NDP": 45.6, "CON": 42.2, "GRN": 9.8, "AUTRES": 2.4 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": 526,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 39.6, "CON": 42.0, "GRN": 16.1, "AUTRES": 2.3 }
+    },
+    "INTERIOR-NORTH": {
+      "n": 416,
+      "libelle": "Interior North",
+      "parts": { "NDP": 37.6, "CON": 47.7, "GRN": 9.1, "AUTRES": 5.7 }
+    }
+  }
+}

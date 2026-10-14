@@ -1,0 +1,26 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Abacus Data",
+  "date_debut": "2025-10-09",
+  "date_fin": "2025-10-15",
+  "document": "Abacus Data BC Poll: Eby Government Holds the Edge a Year After the Provincial Election (Abacus Data, 2025-10-20)",
+  "reference": "https://abacusdata.ca/abacus-data-bc-poll-eby-government-holds-the-edge-a-year-after-the-provincial-election/",
+  "note": "Online panel, n=1,000. Shares among committed (decided) voters, read from the chart 'Committed voters - by region & age' (slide 8, image-76 on the page). 26% undecided overall. Regional bases not published; National n = total sample. Region labels verbatim: Vancouver / Lower Mainland (coded LOWER-MAINLAND; release text calls it Metro Vancouver), Other BC Area (new code OUTSIDE-LOWER-MAINLAND: Vancouver Island + Interior + North).",
+  "groupes": {
+    "National": {
+      "n": 1000,
+      "libelle": "BC",
+      "parts": { "NDP": 47, "CON": 40, "GRN": 8, "CENTRE": 3, "ONEBC": 1 }
+    },
+    "LOWER-MAINLAND": {
+      "n": null,
+      "libelle": "Vancouver / Lower Mainland",
+      "parts": { "NDP": 50, "CON": 41, "GRN": 7, "CENTRE": 1, "ONEBC": 1 }
+    },
+    "OUTSIDE-LOWER-MAINLAND": {
+      "n": null,
+      "libelle": "Other BC Area",
+      "parts": { "NDP": 41, "CON": 37, "GRN": 9, "CENTRE": 11, "ONEBC": 2 }
+    }
+  }
+}

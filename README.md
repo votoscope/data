@@ -7,7 +7,7 @@ Données électorales et de sondages du projet Votoscope / election and poll dat
 | Dossier | Contenu |
 |---|---|
 | `csv/` | Tables publiées : sondages, parts par parti, résultats officiels par circonscription, recensement par circonscription. Chaque ligne indique sa source primaire. |
-| `sources/` | Téléchargeurs et lecteurs, un par source publique (Wikipédia, Élections Canada, Élections Québec, Statistique Canada, rapports des maisons de sondage, agences provinciales). |
+| `sources/` | Téléchargeurs et lecteurs, un par source publique (Wikipédia, Élections Canada, Élections Québec, Elections BC, Statistique Canada, rapports des maisons de sondage, agences provinciales). |
 | `vigile/` | Vigile des sondages : détecte les sondages nouveaux ou modifiés dans les sources, les intègre et met à jour les tables. |
 | `raw/` | Téléchargements bruts, locaux, non versionnés. |
 | `prive/` | Données dont la republication n'est pas autorisée, locales, non versionnées. |

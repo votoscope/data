@@ -1,0 +1,41 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Research Co.",
+  "date_debut": "2025-10-01",
+  "date_fin": "2025-10-03",
+  "document": "NDP Leads, Conservatives Drop, Greens Gain in British Columbia (Research Co., 2025-10-06); data tables Tables_Politics_BC_06Oct2025.pdf, p. 3",
+  "reference": "https://researchco.ca/2025/10/06/bcpoli-oct2025/",
+  "note": "Online, 801 adults. Shares among decided voters from the 'Decided Voters' block of the data tables. Region labels verbatim. Regional sample sizes not published (National n = total sample). 'Another party / An independent candidate' -> AUTRES.",
+  "groupes": {
+    "National": {
+      "n": 801,
+      "libelle": "British Columbia",
+      "parts": { "NDP": 44, "CON": 38, "GRN": 12, "CENTRE": 3, "ONEBC": 1, "AUTRES": 1 }
+    },
+    "METRO-VANCOUVER": {
+      "n": null,
+      "libelle": "Metro Vancouver",
+      "parts": { "NDP": 44, "CON": 36, "GRN": 12, "CENTRE": 4, "ONEBC": 2, "AUTRES": 1 }
+    },
+    "FRASER-VALLEY": {
+      "n": null,
+      "libelle": "Fraser Valley",
+      "parts": { "NDP": 41, "CON": 52, "GRN": 7, "CENTRE": 0, "ONEBC": 0, "AUTRES": 1 }
+    },
+    "NORTH": {
+      "n": null,
+      "libelle": "Northern BC",
+      "parts": { "NDP": 29, "CON": 52, "GRN": 12, "CENTRE": 7, "ONEBC": 0, "AUTRES": 0 }
+    },
+    "INTERIOR": {
+      "n": null,
+      "libelle": "Southern BC",
+      "parts": { "NDP": 50, "CON": 39, "GRN": 6, "CENTRE": 2, "ONEBC": 1, "AUTRES": 2 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": null,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 51, "CON": 30, "GRN": 16, "CENTRE": 2, "ONEBC": 0, "AUTRES": 1 }
+    }
+  }
+}

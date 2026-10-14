@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "604 Polling",
+  "date_debut": "2026-07-31",
+  "date_fin": "2026-08-08",
+  "document": "BC Provincial Election Poll, research report (604 Polling, 2026-08-11)",
+  "reference": "https://604polling.ca/bc-provincial-election-poll-july-31-august-8-2026.pdf",
+  "note": "IVR (random digit dialing), n=1,124; decided weighted base 1,023. Shares among decided voters ('% decided' values in the region cross-tab, p. 5). n = unweighted ALL-respondent regional bases (decided unweighted bases not published). AUTRES = 'Another Party'. Release page: https://604polling.ca/#results. Region labels verbatim: Lower Mainland, Vancouver Island, Northern/Interior BC.",
+  "groupes": {
+    "National": {
+      "n": 1124,
+      "libelle": "Total",
+      "parts": { "NDP": 35.4, "CON": 44.6, "GRN": 12.2, "ONEBC": 1.9, "CENTRE": 2.2, "AUTRES": 3.6 }
+    },
+    "LOWER-MAINLAND": {
+      "n": 526,
+      "libelle": "Lower Mainland",
+      "parts": { "NDP": 36.0, "CON": 44.4, "GRN": 12.7, "ONEBC": 1.6, "CENTRE": 2.3, "AUTRES": 3.0 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": 284,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 41.2, "CON": 33.4, "GRN": 18.0, "ONEBC": 2.0, "CENTRE": 2.5, "AUTRES": 2.9 }
+    },
+    "INTERIOR-NORTH": {
+      "n": 314,
+      "libelle": "Northern/Interior BC",
+      "parts": { "NDP": 31.2, "CON": 51.4, "GRN": 8.0, "ONEBC": 2.4, "CENTRE": 1.8, "AUTRES": 5.2 }
+    }
+  }
+}

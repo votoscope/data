@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Ipsos",
+  "date_debut": "2024-10-16",
+  "date_fin": "2024-10-18",
+  "document": "NDP are Favourites to Win Third Term (Global BC, 2024-10-18)",
+  "reference": "https://www.ipsos.com/en-ca/ndp-are-favourites-win-third-term",
+  "note": "Final Ipsos poll before the 2024 election. Mixed mode: n=1,330 (930 online Ipsos I-Say panel + 400 live-interviewer phone). Shares among decided voters from the detailed tables (Q2 reduced base, 'Rebased on decided voters'): https://www.ipsos.com/sites/default/files/ct/news/documents/2024-10/BC%20Election%20Poll%202%20Tables%20%28Oct%2018%29.pdf. n = unweighted decided-voter bases. AUTRES = 'Some other party or candidate'. Region labels verbatim from tables: Metro Van, Van Island, North/Interior (release text: 'Southern Interior/North').",
+  "groupes": {
+    "National": {
+      "n": 1142,
+      "libelle": "Total",
+      "parts": { "NDP": 44, "CON": 42, "GRN": 11, "AUTRES": 3 }
+    },
+    "METRO-VANCOUVER": {
+      "n": 647,
+      "libelle": "Metro Van",
+      "parts": { "NDP": 51, "CON": 38, "GRN": 8, "AUTRES": 3 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": 193,
+      "libelle": "Van Island",
+      "parts": { "NDP": 45, "CON": 33, "GRN": 17, "AUTRES": 5 }
+    },
+    "INTERIOR-NORTH": {
+      "n": 301,
+      "libelle": "North/Interior",
+      "parts": { "NDP": 31, "CON": 55, "GRN": 12, "AUTRES": 2 }
+    }
+  }
+}

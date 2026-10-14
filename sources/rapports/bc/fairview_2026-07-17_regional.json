@@ -1,0 +1,36 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Fairview Strategy",
+  "date_debut": "2026-07-06",
+  "date_fin": "2026-07-17",
+  "document": "BC Political Overview, July 2026 (Fairview Strategy, 2026-08-11)",
+  "reference": "https://img1.wsimg.com/blobby/go/300789d8-cebb-4c14-aeed-9c538789c751/downloads/3b167c9e-923d-44fa-9206-d0875831131e/OMNI.06%20PoliticsInfra_FINAL3.pdf",
+  "note": "SHARES INCLUDE UNDECIDED. Online panel, n=896. 'Provincial Ballot ... BY Region' chart (vote + lean, all respondents); UNDECIDED = 'Undecided'. AUTRES = 'Other'; the City of Vancouver 'Other' segment is unlabelled and omitted. Regional bases not published; National n = total sample. Release page: https://fairviewstrategy.com/news/f/bc-politics-leadership-and-energy-infrastructure. Region labels verbatim: City of Vancouver (new code VANCOUVER-CITY), Rest of Lower Mainland (new code LOWER-MAINLAND-REST: Metro Vancouver outside the City plus Fraser Valley), Vancouver Island, Rest of BC (coded INTERIOR-NORTH).",
+  "groupes": {
+    "National": {
+      "n": 896,
+      "libelle": "Overall",
+      "parts": { "NDP": 37, "CON": 34, "GRN": 10, "AUTRES": 4, "UNDECIDED": 15 }
+    },
+    "VANCOUVER-CITY": {
+      "n": null,
+      "libelle": "City of Vancouver",
+      "parts": { "NDP": 36, "CON": 34, "GRN": 13, "UNDECIDED": 18 }
+    },
+    "LOWER-MAINLAND-REST": {
+      "n": null,
+      "libelle": "Rest of Lower Mainland",
+      "parts": { "NDP": 38, "CON": 35, "GRN": 6, "AUTRES": 4, "UNDECIDED": 17 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": null,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 39, "CON": 26, "GRN": 17, "AUTRES": 5, "UNDECIDED": 13 }
+    },
+    "INTERIOR-NORTH": {
+      "n": null,
+      "libelle": "Rest of BC",
+      "parts": { "NDP": 35, "CON": 40, "GRN": 10, "AUTRES": 5, "UNDECIDED": 10 }
+    }
+  }
+}

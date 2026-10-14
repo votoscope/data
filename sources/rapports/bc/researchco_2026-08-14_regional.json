@@ -1,0 +1,41 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Research Co.",
+  "date_debut": "2026-08-12",
+  "date_fin": "2026-08-14",
+  "document": "Governing New Democrats Retake Lead in British Columbia (Research Co., 2026-08-18); data tables Tables_Politics_BC__18Aug2026.pdf, p. 3",
+  "reference": "https://researchco.ca/2026/08/18/bcpoli-aug2026/",
+  "note": "Online, 801 adults. Shares among decided voters from the 'Decided Voters' block of the data tables. Region labels verbatim. Regional sample sizes not published (National n = total sample). 'Another party / An independent candidate' -> AUTRES. Southern BC column sums to 103 as published.",
+  "groupes": {
+    "National": {
+      "n": 801,
+      "libelle": "British Columbia",
+      "parts": { "NDP": 44, "CON": 39, "GRN": 10, "CENTRE": 5, "ONEBC": 1, "AUTRES": 1 }
+    },
+    "METRO-VANCOUVER": {
+      "n": null,
+      "libelle": "Metro Vancouver",
+      "parts": { "NDP": 42, "CON": 40, "GRN": 11, "CENTRE": 4, "ONEBC": 2, "AUTRES": 1 }
+    },
+    "FRASER-VALLEY": {
+      "n": null,
+      "libelle": "Fraser Valley",
+      "parts": { "NDP": 45, "CON": 45, "GRN": 5, "CENTRE": 5, "ONEBC": 1, "AUTRES": 0 }
+    },
+    "INTERIOR": {
+      "n": null,
+      "libelle": "Southern BC",
+      "parts": { "NDP": 47, "CON": 45, "GRN": 3, "CENTRE": 6, "ONEBC": 0, "AUTRES": 2 }
+    },
+    "NORTH": {
+      "n": null,
+      "libelle": "Northern BC",
+      "parts": { "NDP": 32, "CON": 53, "GRN": 7, "CENTRE": 6, "ONEBC": 2, "AUTRES": 1 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": null,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 52, "CON": 26, "GRN": 13, "CENTRE": 8, "ONEBC": 0, "AUTRES": 2 }
+    }
+  }
+}

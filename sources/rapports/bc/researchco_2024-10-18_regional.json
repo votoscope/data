@@ -1,0 +1,41 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Research Co.",
+  "date_debut": "2024-10-17",
+  "date_fin": "2024-10-18",
+  "document": "No Major Movement in Final Stages of British Columbia Campaign (Research Co., 2024-10-18); data tables Tables_Politics_BC_18Oct2024.pdf, p. 3",
+  "reference": "https://researchco.ca/2024/10/18/final-bcpoli-2024/",
+  "note": "Final pre-election poll. Online, 803 likely voters (753 decided, incl. those who already voted). Shares among decided voters from the 'Decided Voters' block of the data tables. Region labels verbatim. Regional sample sizes not published (National n = total sample). 'Another party / An independent candidate' -> AUTRES. BC United had withdrawn; no BCU option.",
+  "groupes": {
+    "National": {
+      "n": 803,
+      "libelle": "British Columbia",
+      "parts": { "NDP": 44, "CON": 41, "GRN": 12, "AUTRES": 3 }
+    },
+    "METRO-VANCOUVER": {
+      "n": null,
+      "libelle": "Metro Vancouver",
+      "parts": { "NDP": 49, "CON": 40, "GRN": 8, "AUTRES": 3 }
+    },
+    "FRASER-VALLEY": {
+      "n": null,
+      "libelle": "Fraser Valley",
+      "parts": { "NDP": 47, "CON": 47, "GRN": 5, "AUTRES": 1 }
+    },
+    "NORTH": {
+      "n": null,
+      "libelle": "Northern BC",
+      "parts": { "NDP": 29, "CON": 53, "GRN": 6, "AUTRES": 12 }
+    },
+    "INTERIOR": {
+      "n": null,
+      "libelle": "Southern BC",
+      "parts": { "NDP": 41, "CON": 44, "GRN": 10, "AUTRES": 5 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": null,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 45, "CON": 33, "GRN": 20, "AUTRES": 2 }
+    }
+  }
+}

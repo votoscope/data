@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Ipsos",
+  "date_debut": "2026-10-07",
+  "date_fin": "2026-10-11",
+  "document": "BC Conservatives: From Fractured to Front Runners (Global BC, 2026-10-13)",
+  "reference": "https://www.ipsos.com/en-ca/bc-conservatives-fractured-front-runners",
+  "note": "Mixed mode: n=1,351 in tables (online Ipsos panel + live-interviewer phone). Shares among decided voters from the detailed tables (Q2 reduced base, 'Rebased on decided voters'): https://www.ipsos.com/sites/default/files/ct/news/documents/2026-10/BC%20Poll%202%20Tables.pdf. n = unweighted decided-voter bases. AUTRES = 'Some other party or candidate'. Region labels verbatim from tables: Metro Van, Van Island, North/Interior (release text: 'Southern Interior/North').",
+  "groupes": {
+    "National": {
+      "n": 1010,
+      "libelle": "Total",
+      "parts": { "NDP": 38, "CON": 43, "GRN": 11, "ONEBC": 4, "CENTRE": 2, "AUTRES": 2 }
+    },
+    "METRO-VANCOUVER": {
+      "n": 533,
+      "libelle": "Metro Van",
+      "parts": { "NDP": 39, "CON": 42, "GRN": 12, "ONEBC": 3, "CENTRE": 2, "AUTRES": 2 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": 176,
+      "libelle": "Van Island",
+      "parts": { "NDP": 47, "CON": 27, "GRN": 13, "ONEBC": 7, "CENTRE": 2, "AUTRES": 3 }
+    },
+    "INTERIOR-NORTH": {
+      "n": 299,
+      "libelle": "North/Interior",
+      "parts": { "NDP": 32, "CON": 53, "GRN": 8, "ONEBC": 4, "CENTRE": 1, "AUTRES": 2 }
+    }
+  }
+}

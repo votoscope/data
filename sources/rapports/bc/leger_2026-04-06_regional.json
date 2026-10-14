@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Léger",
+  "date_debut": "2026-04-03",
+  "date_fin": "2026-04-06",
+  "document": "Government of British Columbia Report Card: April 2026 (Leger, 2026-04-10)",
+  "reference": "https://5233025.fs1.hubspotusercontent-na1.net/hubfs/5233025/%C3%89tudes%20M%C3%A9diatiques/%C3%89tudes%20M%C3%A9diatiques%20-%202026/4.%20%C3%89M%20-%20Avril%202026/20260410%20-%20AB%20-%20BC%20Government%20Poll/LEGER_BC%20Gov%20Report%20Card_EN_Apr2026.pdf",
+  "note": "Online panel, n=1,003; decided voters weighted n=779, unweighted n=793. Shares among decided voters from the 'Provincial Voting Intentions' table (p. 8). Regional bases not published. Region labels verbatim: Metro Van, Van Isle, Rest of BC (coded INTERIOR-NORTH).",
+  "groupes": {
+    "National": {
+      "n": 793,
+      "libelle": "Total",
+      "parts": { "NDP": 44, "CON": 40, "GRN": 10, "ONEBC": 3, "AUTRES": 4 }
+    },
+    "METRO-VANCOUVER": {
+      "n": null,
+      "libelle": "Metro Van",
+      "parts": { "NDP": 49, "CON": 38, "GRN": 8, "ONEBC": 3, "AUTRES": 2 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": null,
+      "libelle": "Van Isle",
+      "parts": { "NDP": 40, "CON": 36, "GRN": 14, "ONEBC": 1, "AUTRES": 9 }
+    },
+    "INTERIOR-NORTH": {
+      "n": null,
+      "libelle": "Rest of BC",
+      "parts": { "NDP": 35, "CON": 47, "GRN": 10, "ONEBC": 4, "AUTRES": 4 }
+    }
+  }
+}

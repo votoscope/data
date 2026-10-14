@@ -1,0 +1,41 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Research Co.",
+  "date_debut": "2020-10-22",
+  "date_fin": "2020-10-23",
+  "document": "New Democrats Headed for Outright Victory in British Columbia (Research Co., 2020-10-23); data tables Tables_Politics_BC_23Oct2020.pdf, p. 3",
+  "reference": "https://researchco.ca/2020/10/23/bcelxn2020-final/",
+  "note": "Final pre-election poll. Online, 750 likely voters (705 decided, incl. those who already voted). Shares among decided voters from the 'Decided Voters' block of the data tables; the release text gives no regional figures. Region labels verbatim. Regional sample sizes not published (National n = total sample). BCU = BC Liberals; CON = BC Conservative Party; 'Another party / An independent candidate' -> AUTRES.",
+  "groupes": {
+    "National": {
+      "n": 750,
+      "libelle": "British Columbia",
+      "parts": { "NDP": 50, "BCU": 35, "GRN": 13, "CON": 2, "AUTRES": 1 }
+    },
+    "METRO-VANCOUVER": {
+      "n": null,
+      "libelle": "Metro Vancouver",
+      "parts": { "NDP": 56, "BCU": 32, "GRN": 11, "CON": 1, "AUTRES": 1 }
+    },
+    "FRASER-VALLEY": {
+      "n": null,
+      "libelle": "Fraser Valley",
+      "parts": { "NDP": 43, "BCU": 43, "GRN": 11, "CON": 2, "AUTRES": 1 }
+    },
+    "INTERIOR": {
+      "n": null,
+      "libelle": "Southern BC",
+      "parts": { "NDP": 40, "BCU": 45, "GRN": 13, "CON": 1, "AUTRES": 1 }
+    },
+    "NORTH": {
+      "n": null,
+      "libelle": "Northern BC",
+      "parts": { "NDP": 43, "BCU": 51, "GRN": 3, "CON": 1, "AUTRES": 2 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": null,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 52, "BCU": 25, "GRN": 22, "CON": 0, "AUTRES": 2 }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Liaison Strategies",
+  "date_debut": "2026-10-07",
+  "date_fin": "2026-10-08",
+  "document": "B.C.: Conservatives Lead NDP 43% to 37% as Eby Approval Falls (Liaison Strategies, 2026-10-09); tables 2026.10.09-British-Columbia-Tables.pdf, 'Provincial Voting Intention (Decided and Leaning)'",
+  "reference": "https://press.liaisonstrategies.ca/bc-conservatives-lead-ndp-43-to-37-as-eby-approval-falls/",
+  "note": "IVR, 1,000 adults. Shares among decided and leaning voters. Region labels verbatim; 'Rest of BC' = outside Metro Vancouver and Vancouver Island. n = unweighted decided-and-leaning bases. 'Other' -> AUTRES.",
+  "groupes": {
+    "National": {
+      "n": 882,
+      "libelle": "Total",
+      "parts": { "NDP": 37, "CON": 43, "GRN": 10, "CENTRE": 3, "ONEBC": 4, "AUTRES": 4 }
+    },
+    "METRO-VANCOUVER": {
+      "n": 434,
+      "libelle": "Metro Vancouver",
+      "parts": { "NDP": 38, "CON": 40, "GRN": 12, "CENTRE": 3, "ONEBC": 4, "AUTRES": 3 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": 180,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 44, "CON": 32, "GRN": 12, "CENTRE": 4, "ONEBC": 2, "AUTRES": 7 }
+    },
+    "INTERIOR-NORTH": {
+      "n": 268,
+      "libelle": "Rest of BC",
+      "parts": { "NDP": 30, "CON": 54, "GRN": 4, "CENTRE": 3, "ONEBC": 5, "AUTRES": 4 }
+    }
+  }
+}

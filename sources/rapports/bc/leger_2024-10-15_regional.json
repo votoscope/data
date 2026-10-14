@@ -1,0 +1,31 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Léger",
+  "date_debut": "2024-10-14",
+  "date_fin": "2024-10-15",
+  "document": "British Columbia Provincial Polling: Week of October 14 (Vancouver Sun, 2024-10-18)",
+  "reference": "https://leger360.com/wp-content/uploads/2024/10/FINAL-BC-Election-Poll-Oct-14-16-Vancouver-Sun-2024.pdf",
+  "note": "Final Leger poll before the 2024-10-19 election. Online panel, n=1,017; decided voters (incl. leaners and those who had already voted) weighted n=861, unweighted n=859. Shares among decided voters from the 'Provincial voting intentions x region' chart (p. 8, column 'Oct 15 2024'); national NDP/CON/GRN from p. 3; national Other (3%) is not printed in the release and is taken from the Wikipedia table (equals the residual). BC United had withdrawn; no BCU option. Regional bases not published. Region labels verbatim: Metro Van, Van Island, Rest of BC (coded INTERIOR-NORTH).",
+  "groupes": {
+    "National": {
+      "n": 859,
+      "libelle": "Total",
+      "parts": { "NDP": 46, "CON": 42, "GRN": 9, "AUTRES": 3 }
+    },
+    "METRO-VANCOUVER": {
+      "n": null,
+      "libelle": "Metro Van",
+      "parts": { "NDP": 49, "CON": 41, "GRN": 8, "AUTRES": 2 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": null,
+      "libelle": "Van Island",
+      "parts": { "NDP": 49, "CON": 32, "GRN": 15, "AUTRES": 4 }
+    },
+    "INTERIOR-NORTH": {
+      "n": null,
+      "libelle": "Rest of BC",
+      "parts": { "NDP": 39, "CON": 49, "GRN": 8, "AUTRES": 5 }
+    }
+  }
+}

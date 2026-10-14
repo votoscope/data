@@ -1,0 +1,41 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Research Co.",
+  "date_debut": "2025-03-03",
+  "date_fin": "2025-03-05",
+  "document": "British Columbia's Political Scene Remains Closely Contested (Research Co., 2025-03-11); data tables Tables_Politics_BC_11Mar2025.pdf, p. 3",
+  "reference": "https://researchco.ca/2025/03/11/bcpoli-3/",
+  "note": "Online, 802 adults. Shares among decided voters from the 'Decided Voters' block of the data tables. Region labels verbatim. Regional sample sizes not published (National n = total sample). 'Another party / An independent candidate' -> AUTRES.",
+  "groupes": {
+    "National": {
+      "n": 802,
+      "libelle": "British Columbia",
+      "parts": { "NDP": 44, "CON": 42, "GRN": 11, "AUTRES": 3 }
+    },
+    "METRO-VANCOUVER": {
+      "n": null,
+      "libelle": "Metro Vancouver",
+      "parts": { "NDP": 44, "CON": 44, "GRN": 9, "AUTRES": 3 }
+    },
+    "FRASER-VALLEY": {
+      "n": null,
+      "libelle": "Fraser Valley",
+      "parts": { "NDP": 34, "CON": 47, "GRN": 14, "AUTRES": 5 }
+    },
+    "NORTH": {
+      "n": null,
+      "libelle": "Northern BC",
+      "parts": { "NDP": 39, "CON": 44, "GRN": 12, "AUTRES": 5 }
+    },
+    "INTERIOR": {
+      "n": null,
+      "libelle": "Southern BC",
+      "parts": { "NDP": 49, "CON": 47, "GRN": 4, "AUTRES": 0 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": null,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 50, "CON": 31, "GRN": 16, "AUTRES": 3 }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Research Co.",
+  "date_debut": "2025-06-07",
+  "date_fin": "2025-06-09",
+  "document": "Little Change in British Columbia Politics, Even With New Parties (Research Co., 2025-06-16); data tables Tables_Politics_BC_16Jun2025.pdf, p. 3",
+  "reference": "https://researchco.ca/2025/06/16/bcpoli-4/",
+  "note": "Online, 803 adults. Shares among decided voters from the 'Decided Voters' block of the data tables. Region labels verbatim. Regional sample sizes not published (National n = total sample). ONEBC = option 'A political party featuring Dallas Brodie, Jordan Kealy and Tara Armstrong' (survey fielded before OneBC was announced on June 14, 2025). 'Another party / An independent candidate' -> AUTRES.",
+  "groupes": {
+    "National": {
+      "n": 803,
+      "libelle": "British Columbia",
+      "parts": { "NDP": 43, "CON": 42, "GRN": 8, "CENTRE": 2, "ONEBC": 1, "AUTRES": 3 }
+    },
+    "METRO-VANCOUVER": {
+      "n": null,
+      "libelle": "Metro Vancouver",
+      "parts": { "NDP": 47, "CON": 41, "GRN": 6, "CENTRE": 2, "ONEBC": 2, "AUTRES": 1 }
+    },
+    "FRASER-VALLEY": {
+      "n": null,
+      "libelle": "Fraser Valley",
+      "parts": { "NDP": 34, "CON": 53, "GRN": 9, "CENTRE": 1, "ONEBC": 0, "AUTRES": 3 }
+    },
+    "NORTH": {
+      "n": null,
+      "libelle": "Northern BC",
+      "parts": { "NDP": 29, "CON": 52, "GRN": 10, "CENTRE": 4, "ONEBC": 2, "AUTRES": 2 }
+    },
+    "INTERIOR": {
+      "n": null,
+      "libelle": "Southern BC",
+      "parts": { "NDP": 43, "CON": 43, "GRN": 4, "CENTRE": 4, "ONEBC": 1, "AUTRES": 6 }
+    },
+    "VANCOUVER-ISLAND": {
+      "n": null,
+      "libelle": "Vancouver Island",
+      "parts": { "NDP": 43, "CON": 34, "GRN": 15, "CENTRE": 2, "ONEBC": 1, "AUTRES": 5 }
+    }
+  }
+}

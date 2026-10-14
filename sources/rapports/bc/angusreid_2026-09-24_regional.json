@@ -1,0 +1,36 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Angus Reid Institute",
+  "date_debut": "2026-09-22",
+  "date_fin": "2026-09-24",
+  "document": "Ballot Backlash: BC Conservatives open 8-point lead after snap election call, but electorate far from locked in (Angus Reid Institute, 2026-09-24)",
+  "reference": "https://angusreid.org/ballot-backlash-bc-conservatives-open-8-point-lead-after-snap-election-call-but-electorate-far-from-locked-in/",
+  "note": "Online, Angus Reid Forum, n=801. Shares among decided and leaning voters from the release PDF chart 'B.C. provincial vote intent (Decided and leaning voters)' (2026.09.23_BC_Elxn_1.pdf, p. 6); n = bases printed on the chart (Fraser Valley flagged as small sample). The release does not split 'Other party' into OneBC/CentreBC (Wikipedia's 4/3/3 split is not in the ARI release); AUTRES = 'Other party'. The PR tables (QBC4a+QBC4b) give shares including undecided only. Region labels verbatim; 'Island/ North' coded VANCOUVER-ISLAND-NORTH-COAST (same ARI region as 'Island/ North Coast').",
+  "groupes": {
+    "National": {
+      "n": 682,
+      "libelle": "Total",
+      "parts": { "NDP": 35, "CON": 43, "GRN": 12, "AUTRES": 10 }
+    },
+    "METRO-VANCOUVER": {
+      "n": 365,
+      "libelle": "Metro Van",
+      "parts": { "NDP": 34, "CON": 44, "GRN": 11, "AUTRES": 10 }
+    },
+    "FRASER-VALLEY": {
+      "n": 85,
+      "libelle": "Fraser Valley",
+      "parts": { "NDP": 36, "CON": 51, "GRN": 6, "AUTRES": 8 }
+    },
+    "VANCOUVER-ISLAND-NORTH-COAST": {
+      "n": 111,
+      "libelle": "Island/ North",
+      "parts": { "NDP": 39, "CON": 30, "GRN": 26, "AUTRES": 5 }
+    },
+    "INTERIOR": {
+      "n": 122,
+      "libelle": "Interior",
+      "parts": { "NDP": 31, "CON": 51, "GRN": 5, "AUTRES": 13 }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "juridiction": "bc-provincial",
+  "firme": "Angus Reid Institute",
+  "date_debut": "2026-04-24",
+  "date_fin": "2026-04-28",
+  "document": "BC Politics: Still-leaderless BC Conservatives open 10-point lead over NDP amid DRIPA uncertainty (Angus Reid Institute, 2026-05-05)",
+  "reference": "https://angusreid.org/bc-ndp-eby-conservatives-dripa-undrip-reconciliation-property-rights-land-title/",
+  "note": "Online, Angus Reid Forum, n=804. Shares among decided voters from the tables (2026.05.05_BC_tables.pdf, Q_Land2 '(Decided voters) Suppose there was an election tomorrow...'). n = unweighted decided bases. Region labels verbatim; 'Fraser Valley' is ARI's Lower Mainland outside Metro Vancouver; 'Island/ North Coast' coded VANCOUVER-ISLAND-NORTH-COAST.",
+  "groupes": {
+    "National": {
+      "n": 595,
+      "libelle": "Total",
+      "parts": { "NDP": 36, "CON": 46, "GRN": 13, "AUTRES": 4 }
+    },
+    "METRO-VANCOUVER": {
+      "n": 241,
+      "libelle": "Metro Van",
+      "parts": { "NDP": 44, "CON": 44, "GRN": 8, "AUTRES": 3 }
+    },
+    "FRASER-VALLEY": {
+      "n": 106,
+      "libelle": "Fraser Valley",
+      "parts": { "NDP": 27, "CON": 54, "GRN": 13, "AUTRES": 5 }
+    },
+    "VANCOUVER-ISLAND-NORTH-COAST": {
+      "n": 132,
+      "libelle": "Island/ North Coast",
+      "parts": { "NDP": 38, "CON": 37, "GRN": 21, "AUTRES": 4 }
+    },
+    "INTERIOR": {
+      "n": 116,
+      "libelle": "Interior",
+      "parts": { "NDP": 32, "CON": 52, "GRN": 11, "AUTRES": 5 }
+    }
+  }
+}

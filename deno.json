@@ -2,9 +2,11 @@
   "nodeModulesDir": "auto",
   "imports": {
     "linkedom": "npm:linkedom@^0.18.13",
-    "fflate": "npm:fflate@^0.8.2"
+    "fflate": "npm:fflate@^0.8.2",
+    "mapshaper": "npm:mapshaper@^0.6"
   },
   "tasks": {
-    "vigile": "deno run --allow-read --allow-write --allow-net=fr.wikipedia.org,en.wikipedia.org vigile/vigile.ts"
+    "vigile": "deno run --allow-read --allow-write --allow-net=fr.wikipedia.org,en.wikipedia.org vigile/vigile.ts",
+    "limites-federales": "deno run --allow-read --allow-write --allow-env --allow-sys --allow-net=www.elections.ca sources/limites_federales.ts"
   }
 }

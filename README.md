@@ -1,6 +1,6 @@
 # data
 
-Données électorales et de sondages du projet Votoscope / election and poll data for the Votoscope project.
+Données électorales et de sondages du projet Votovision / election and poll data for the Votovision project.
 
 ## Contenu
 
@@ -22,4 +22,4 @@ Les chiffres de sondage proviennent des rapports publiés par les maisons de son
 - **Données** (`csv/`) : Creative Commons Attribution - Partage dans les mêmes conditions 4.0 International (CC BY-SA 4.0, `LICENCE-CC-BY-SA-4.0.txt`). Les tables dérivées de Wikipédia et de l'Atlas des élections au Québec sont elles-mêmes sous CC BY-SA 4.0.
 - **Attributions** obligatoires des sources : `ATTRIBUTIONS.md`.
 
-Citer : Votoscope, *data* (https://github.com/votoscope/data), avec les attributions des sources utilisées.
+Citer : Votovision, *data* (https://github.com/votovision/data), avec les attributions des sources utilisées.

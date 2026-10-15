@@ -58,7 +58,7 @@ const PARTIS: Record<string, string> = {
   "Conservative": "CON", "Conservative Party": "CON", OneBC: "ONEBC", CentreBC: "CENTRE",
 };
 const PROVENANCE = "Elections BC, données ouvertes";
-const PROVENANCE_TRANSPOSEE = "Elections BC, données ouvertes ; transposition Votoscope sur la carte de 2023";
+const PROVENANCE_TRANSPOSEE = "Elections BC, données ouvertes ; transposition Votovision sur la carte de 2023";
 
 /** CSV d'Elections BC : en-tête précédé d'un BOM, octets hors UTF-8 (lus en windows-1252). */
 function lireEbc(nom: string): Ligne[] {

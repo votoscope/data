@@ -6,7 +6,7 @@
 import { createHash } from "node:crypto";
 
 export const RACINE = new URL("../", import.meta.url);
-export const USER_AGENT = "votoscope-data/0.1 (https://github.com/votoscope/data; yysrk9lh@duck.com)";
+export const USER_AGENT = "votovision-data/0.1 (https://github.com/votovision/data; yysrk9lh@duck.com)";
 
 // ---------------------------------------------------------------------------
 // CSV

@@ -6,7 +6,7 @@ Mentions requises par les licences des sources. Toute redistribution des tables 
 
 Contains open data granted under the Chief Electoral Officer's Open Data User Licence available at http://dgeq.org/en/. The fact of granting the licence in no way implies that the Chief Electoral Officer approves the use made of the open data.
 
-Données : résultats officiels des élections générales et partielles, carte électorale de 2026 (https://www.electionsquebec.qc.ca/, données ouvertes : https://donnees.electionsquebec.qc.ca/).
+Données : résultats officiels des élections générales et partielles, résultats par bureau de vote des élections générales de 2018 et de 2022, polygones des sections de vote de 2018, de 2022 et de 2026, carte électorale de 2026 (https://www.electionsquebec.qc.ca/, données ouvertes : https://donnees.electionsquebec.qc.ca/).
 
 ## Élections Canada
 

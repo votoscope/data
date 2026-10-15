@@ -3,10 +3,14 @@
   "imports": {
     "linkedom": "npm:linkedom@^0.18.13",
     "fflate": "npm:fflate@^0.8.2",
-    "mapshaper": "npm:mapshaper@^0.6"
+    "mapshaper": "npm:mapshaper@^0.6",
+    "@duckdb/node-api": "npm:@duckdb/node-api@^1.5.5-r.4",
+    "xlsx": "npm:xlsx@^0.18.5"
   },
   "tasks": {
     "vigile": "deno run --allow-read --allow-write --allow-net=fr.wikipedia.org,en.wikipedia.org vigile/vigile.ts",
-    "limites-federales": "deno run --allow-read --allow-write --allow-env --allow-sys --allow-net=www.elections.ca sources/limites_federales.ts"
+    "limites-federales": "deno run --allow-read --allow-write --allow-env --allow-sys --allow-net=www.elections.ca sources/limites_federales.ts",
+    "sections-qc": "deno run --allow-read --allow-write --allow-net=donnees.electionsquebec.qc.ca sources/elections_quebec_sections.ts",
+    "transposition-sections-qc": "deno run --allow-read --allow-write --allow-ffi --allow-env --allow-sys --allow-net=donnees.electionsquebec.qc.ca,extensions.duckdb.org sources/transposition_sections_qc.ts"
   }
 }
